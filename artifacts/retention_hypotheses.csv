@@ -1,0 +1,7 @@
+dimension,cohort,customers,churned,churn_rate,other_customers_rate,gap_pp,pilot_hypothesis
+Contract type,Month-to-month,1021,265,0.2595494613124388,0.09370988446726572,16.583957684517305,Test clearer renewal communication or an optional contract offer
+Tenure,13-36 months,559,132,0.23613595706618962,0.16599516518936341,7.01407918768262,Test onboarding check-ins and early service support
+Monthly charges,90 or more,235,57,0.2425531914893617,0.17955271565495207,6.300047583440962,Test a bill review and plan-fit conversation
+Customer segment,Family,690,154,0.22318840579710145,0.16576576576576577,5.7422640031335686,Test segment-specific service interviews and support
+Monthly charges,50 to under 90,834,174,0.20863309352517986,0.16977225672877846,3.88608367964014,Test a bill review and plan-fit conversation
+Tenure,00-12 months,325,70,0.2153846153846154,0.18169491525423728,3.3689700130378113,Test onboarding check-ins and early service support

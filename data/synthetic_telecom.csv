@@ -1,0 +1,1803 @@
+customer_id,tenure_months,monthly_charges,support_calls,contract_type,internet_service,payment_method,customer_segment,churn
+SYN-00000,6.0,82.47,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00001,56.0,71.66,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00002,47.0,75.33,2,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00003,32.0,42.03,0,Month-to-month,Fiber optic,,Individual,0
+SYN-00004,31.0,97.74,1,Two year,Fiber optic,Automatic,Family,0
+SYN-00005,62.0,71.6,2,One year,Fiber optic,Automatic,Individual,0
+SYN-00006,6.0,47.89,3,Month-to-month,None,Automatic,Family,1
+SYN-00007,50.0,28.01,2,Month-to-month,DSL,Automatic,Family,1
+SYN-00008,14.0,20.72,1,Month-to-month,DSL,Manual,Individual,1
+SYN-00009,6.0,83.79,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00010,38.0,26.26,0,One year,None,Automatic,Individual,1
+SYN-00011,71.0,51.53,1,Two year,DSL,Automatic,Family,0
+SYN-00012,53.0,,0,Two year,DSL,Manual,Small business,0
+SYN-00013,55.0,64.5,1,Two year,DSL,Automatic,Individual,0
+SYN-00014,52.0,49.74,0,Two year,None,Automatic,Family,0
+SYN-00015,57.0,64.5,2,Two year,DSL,Automatic,Family,0
+SYN-00016,37.0,79.21,2,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00017,9.0,28.23,0,Month-to-month,None,Automatic,Family,1
+SYN-00018,61.0,45.42,2,Month-to-month,DSL,Manual,Family,0
+SYN-00019,32.0,69.23,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00020,36.0,75.19,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00021,27.0,64.85,5,Two year,Fiber optic,Automatic,Individual,0
+SYN-00022,13.0,49.59,1,One year,Fiber optic,Manual,Small business,0
+SYN-00023,67.0,97.57,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00024,57.0,43.01,1,Month-to-month,DSL,Manual,Family,0
+SYN-00025,47.0,53.71,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00026,29.0,101.68,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00027,60.0,40.53,1,Two year,DSL,Manual,Family,0
+SYN-00028,39.0,89.17,2,One year,Fiber optic,Automatic,Individual,0
+SYN-00029,32.0,25.47,0,One year,None,Automatic,Individual,0
+SYN-00030,32.0,27.97,1,Month-to-month,DSL,Manual,Individual,1
+SYN-00031,16.0,39.48,2,Month-to-month,DSL,Automatic,Small business,1
+SYN-00032,6.0,97.71,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00033,40.0,44.99,1,One year,DSL,Automatic,Individual,0
+SYN-00034,64.0,48.83,0,One year,DSL,Automatic,Family,0
+SYN-00035,4.0,81.87,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00036,62.0,44.69,2,Two year,DSL,Manual,Individual,0
+SYN-00037,60.0,77.61,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00038,20.0,73.15,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-00039,46.0,71.21,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00040,12.0,42.79,0,Month-to-month,DSL,Automatic,Small business,0
+SYN-00041,55.0,35.55,1,Two year,None,Automatic,Small business,0
+SYN-00042,51.0,29.62,3,Month-to-month,DSL,Manual,Small business,0
+SYN-00043,25.0,91.61,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00044,4.0,,5,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00045,70.0,111.37,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00046,32.0,34.71,2,One year,DSL,Manual,Small business,0
+SYN-00047,65.0,54.13,1,Two year,DSL,Automatic,Family,0
+SYN-00048,49.0,84.86,2,Two year,Fiber optic,Manual,Family,0
+SYN-00049,56.0,28.33,1,Month-to-month,DSL,Automatic,Family,0
+SYN-00050,55.0,48.19,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00051,14.0,79.35,2,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-00052,26.0,98.79,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00053,34.0,32.43,0,Month-to-month,DSL,Manual,Individual,0
+SYN-00054,36.0,18.0,3,Two year,None,Automatic,Individual,0
+SYN-00055,3.0,69.96,2,Two year,Fiber optic,Manual,Family,0
+SYN-00056,39.0,61.68,2,One year,None,Manual,Individual,1
+SYN-00057,,60.8,1,Month-to-month,Fiber optic,Manual,Small business,1
+SYN-00058,54.0,108.55,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00059,49.0,77.86,2,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00060,67.0,72.63,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00061,54.0,58.13,2,Month-to-month,None,Automatic,Family,0
+SYN-00062,26.0,39.34,2,Month-to-month,DSL,Automatic,Family,1
+SYN-00063,70.0,55.7,0,Month-to-month,DSL,Manual,Individual,0
+SYN-00064,29.0,35.98,0,Two year,DSL,Automatic,Small business,0
+SYN-00065,23.0,40.99,5,Month-to-month,None,,Individual,1
+SYN-00066,66.0,71.52,2,Two year,Fiber optic,Manual,Individual,0
+SYN-00067,27.0,83.56,0,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00068,5.0,70.52,3,Month-to-month,None,Automatic,Family,0
+SYN-00069,34.0,48.29,1,Month-to-month,None,Automatic,Family,0
+SYN-00070,58.0,57.49,0,Month-to-month,DSL,Automatic,Small business,0
+SYN-00071,13.0,67.05,5,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00072,33.0,44.93,2,Month-to-month,None,Automatic,Small business,0
+SYN-00073,9.0,56.36,1,Two year,DSL,Automatic,Family,0
+SYN-00074,50.0,61.11,1,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00075,34.0,77.78,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00076,24.0,75.1,2,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00077,16.0,63.91,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00078,41.0,39.65,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00079,48.0,36.9,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00080,68.0,49.06,0,Two year,DSL,Manual,Family,0
+SYN-00081,31.0,34.11,0,Two year,DSL,Manual,Small business,0
+SYN-00082,11.0,88.83,0,One year,Fiber optic,Manual,Family,0
+SYN-00083,60.0,85.22,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00084,45.0,36.82,1,Month-to-month,DSL,Manual,Individual,0
+SYN-00085,51.0,66.63,2,Two year,Fiber optic,Manual,Small business,0
+SYN-00086,7.0,109.54,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00087,22.0,56.68,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00088,56.0,27.4,2,Month-to-month,None,Manual,Small business,0
+SYN-00089,60.0,68.43,0,One year,Fiber optic,Manual,Individual,0
+SYN-00090,31.0,101.53,0,One year,Fiber optic,Automatic,Individual,0
+SYN-00091,58.0,32.84,1,One year,DSL,Automatic,Family,0
+SYN-00092,61.0,80.54,0,One year,Fiber optic,Manual,Individual,0
+SYN-00093,28.0,38.23,2,Month-to-month,None,Automatic,Individual,0
+SYN-00094,65.0,54.34,0,Two year,None,Automatic,Family,0
+SYN-00095,21.0,106.07,2,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00096,17.0,,1,One year,Fiber optic,Automatic,Family,1
+SYN-00097,49.0,69.14,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00098,46.0,92.52,1,Two year,Fiber optic,Automatic,Family,0
+SYN-00099,10.0,65.77,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00100,60.0,36.29,1,Month-to-month,None,Manual,Individual,0
+SYN-00101,14.0,64.68,1,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00102,58.0,32.58,1,Month-to-month,DSL,Manual,Individual,0
+SYN-00103,0.0,68.09,4,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00104,58.0,40.26,1,One year,DSL,Manual,Individual,0
+SYN-00105,57.0,27.94,1,Month-to-month,DSL,,Family,0
+SYN-00106,56.0,36.93,0,Two year,DSL,Manual,Small business,0
+SYN-00107,48.0,59.06,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00108,34.0,38.95,1,One year,DSL,Automatic,Family,0
+SYN-00109,51.0,50.01,3,Month-to-month,DSL,Manual,Individual,1
+SYN-00110,20.0,42.64,0,One year,DSL,Manual,Individual,0
+SYN-00111,56.0,64.94,0,One year,None,Automatic,Family,0
+SYN-00112,40.0,95.28,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00113,33.0,24.95,1,Two year,DSL,Automatic,Small business,0
+SYN-00114,36.0,69.49,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00115,41.0,55.95,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00116,2.0,44.7,1,One year,DSL,Automatic,Individual,1
+SYN-00117,10.0,68.59,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-00118,17.0,62.91,0,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00119,8.0,57.99,1,Month-to-month,None,Automatic,Family,1
+SYN-00120,32.0,47.28,3,Two year,DSL,Automatic,Individual,0
+SYN-00121,48.0,101.9,2,One year,Fiber optic,Manual,Family,1
+SYN-00122,47.0,52.79,2,Two year,DSL,Manual,Family,0
+SYN-00123,34.0,51.72,0,Month-to-month,None,Manual,Family,1
+SYN-00124,62.0,41.85,0,One year,None,Automatic,Individual,0
+SYN-00125,41.0,78.95,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00126,5.0,82.04,1,Two year,Fiber optic,Manual,Individual,1
+SYN-00127,55.0,37.65,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-00128,41.0,85.96,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00129,46.0,53.85,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00130,41.0,33.29,3,One year,DSL,Automatic,Individual,0
+SYN-00131,40.0,57.01,4,One year,Fiber optic,Automatic,Individual,0
+SYN-00132,6.0,78.6,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00133,40.0,96.35,1,Two year,Fiber optic,Automatic,Small business,0
+SYN-00134,58.0,83.84,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00135,22.0,76.65,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00136,44.0,99.83,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00137,2.0,18.0,1,Month-to-month,DSL,Manual,Individual,0
+SYN-00138,25.0,68.21,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00139,31.0,54.74,1,Month-to-month,DSL,Automatic,Family,0
+SYN-00140,71.0,52.34,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00141,15.0,62.3,1,One year,Fiber optic,Automatic,Small business,0
+SYN-00142,20.0,104.31,1,One year,Fiber optic,Automatic,Family,0
+SYN-00143,29.0,63.04,1,One year,DSL,Automatic,Family,0
+SYN-00144,72.0,39.87,4,Month-to-month,DSL,Automatic,Individual,0
+SYN-00145,62.0,86.47,1,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00146,2.0,52.8,2,Month-to-month,DSL,Manual,Family,1
+SYN-00147,17.0,42.22,3,One year,DSL,Automatic,Individual,0
+SYN-00148,59.0,,0,Two year,Fiber optic,Automatic,Family,0
+SYN-00149,4.0,91.51,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00150,62.0,66.78,1,One year,Fiber optic,Manual,Individual,0
+SYN-00151,20.0,91.43,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00152,66.0,109.78,3,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00153,21.0,52.94,0,Month-to-month,DSL,Automatic,Individual,1
+SYN-00154,31.0,84.69,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00155,48.0,37.6,2,One year,None,Manual,Family,0
+SYN-00156,9.0,106.6,3,Two year,Fiber optic,,Family,1
+SYN-00157,40.0,97.07,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00158,36.0,94.27,0,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00159,,81.76,3,One year,Fiber optic,Automatic,Family,0
+SYN-00160,72.0,80.53,1,Two year,Fiber optic,Manual,Individual,0
+SYN-00161,48.0,75.89,2,One year,Fiber optic,Manual,Family,0
+SYN-00162,29.0,58.24,2,Month-to-month,DSL,Automatic,Family,1
+SYN-00163,29.0,52.93,2,One year,DSL,Automatic,Individual,0
+SYN-00164,30.0,111.2,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00165,59.0,44.21,2,Two year,DSL,Automatic,Small business,0
+SYN-00166,23.0,57.03,0,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00167,12.0,92.57,1,One year,Fiber optic,Automatic,Family,0
+SYN-00168,24.0,62.82,0,Month-to-month,None,Manual,Small business,1
+SYN-00169,1.0,23.71,3,Month-to-month,DSL,Automatic,Small business,0
+SYN-00170,7.0,74.23,2,Two year,Fiber optic,Automatic,Individual,0
+SYN-00171,6.0,108.38,3,One year,Fiber optic,Automatic,Family,1
+SYN-00172,56.0,43.02,0,Month-to-month,DSL,Automatic,Small business,0
+SYN-00173,52.0,82.24,1,Two year,DSL,Automatic,Family,0
+SYN-00174,50.0,25.47,0,Two year,DSL,Manual,Individual,0
+SYN-00175,33.0,22.13,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00176,,65.91,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00177,11.0,59.45,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00178,65.0,72.44,2,One year,Fiber optic,Automatic,Individual,0
+SYN-00179,36.0,34.15,0,Month-to-month,DSL,Manual,Individual,0
+SYN-00180,68.0,63.47,3,Month-to-month,DSL,Manual,Family,1
+SYN-00181,11.0,42.99,3,Two year,DSL,Automatic,Individual,0
+SYN-00182,36.0,80.94,3,Two year,Fiber optic,Manual,Small business,0
+SYN-00183,50.0,44.77,1,Two year,DSL,Manual,Family,0
+SYN-00184,36.0,90.8,1,Two year,Fiber optic,Manual,Small business,0
+SYN-00185,32.0,87.34,2,One year,DSL,Automatic,Small business,0
+SYN-00186,12.0,43.99,2,One year,DSL,Automatic,Individual,0
+SYN-00187,27.0,51.3,3,One year,None,Automatic,Family,1
+SYN-00188,17.0,18.13,1,Month-to-month,DSL,Manual,Individual,0
+SYN-00189,22.0,26.71,1,Month-to-month,DSL,Manual,Small business,1
+SYN-00190,49.0,32.22,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00191,46.0,43.05,2,One year,None,Automatic,Family,0
+SYN-00192,44.0,89.79,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00193,26.0,98.11,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00194,70.0,66.21,0,One year,None,Automatic,Family,0
+SYN-00195,6.0,32.94,0,Month-to-month,DSL,Manual,Individual,0
+SYN-00196,25.0,19.29,3,Month-to-month,None,Automatic,Individual,1
+SYN-00197,8.0,67.39,1,Two year,DSL,Automatic,Family,0
+SYN-00198,24.0,74.36,2,Two year,Fiber optic,Automatic,Individual,0
+SYN-00199,70.0,67.56,2,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00200,26.0,84.26,2,Month-to-month,Fiber optic,Manual,Small business,1
+SYN-00201,66.0,,0,Month-to-month,None,Automatic,Individual,0
+SYN-00202,36.0,18.46,3,One year,DSL,Automatic,Family,0
+SYN-00203,51.0,24.28,2,Two year,None,Automatic,Small business,0
+SYN-00204,33.0,88.56,3,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00205,19.0,84.55,0,One year,Fiber optic,Automatic,Individual,0
+SYN-00206,55.0,28.3,2,Month-to-month,None,Automatic,Small business,0
+SYN-00207,70.0,24.18,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00208,19.0,,3,Two year,None,Automatic,Family,0
+SYN-00209,56.0,83.91,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00210,19.0,97.05,0,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00211,52.0,20.55,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-00212,57.0,57.42,2,One year,Fiber optic,Manual,Individual,0
+SYN-00213,32.0,99.82,0,Two year,Fiber optic,Manual,Family,0
+SYN-00214,53.0,78.28,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-00215,19.0,46.99,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00216,5.0,43.08,1,Month-to-month,DSL,Automatic,Family,0
+SYN-00217,7.0,39.66,2,One year,None,Automatic,Family,0
+SYN-00218,32.0,52.69,2,Month-to-month,DSL,Automatic,Individual,1
+SYN-00219,65.0,55.2,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-00220,9.0,51.27,1,One year,None,Automatic,Small business,0
+SYN-00221,33.0,52.17,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-00222,51.0,46.18,1,Two year,DSL,Automatic,Individual,0
+SYN-00223,14.0,66.06,3,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00224,52.0,24.39,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-00225,22.0,72.27,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00226,59.0,58.16,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00227,42.0,62.5,0,One year,Fiber optic,Automatic,Individual,0
+SYN-00228,39.0,98.38,1,One year,Fiber optic,Manual,Family,0
+SYN-00229,12.0,83.44,2,Two year,Fiber optic,Automatic,Individual,0
+SYN-00230,33.0,,2,Two year,Fiber optic,Automatic,Individual,0
+SYN-00231,62.0,43.79,0,Month-to-month,DSL,Manual,Small business,0
+SYN-00232,1.0,95.91,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00233,55.0,54.63,2,One year,None,Automatic,Individual,0
+SYN-00234,35.0,82.4,1,Two year,Fiber optic,Manual,Individual,1
+SYN-00235,52.0,88.76,2,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00236,48.0,41.2,1,Month-to-month,DSL,Manual,Individual,1
+SYN-00237,31.0,62.74,0,Month-to-month,DSL,Automatic,Family,1
+SYN-00238,22.0,33.27,3,Month-to-month,DSL,Automatic,Family,0
+SYN-00239,45.0,48.42,0,One year,DSL,Manual,Family,0
+SYN-00240,10.0,34.49,1,Month-to-month,None,Automatic,Small business,0
+SYN-00241,42.0,31.83,0,One year,DSL,Automatic,Individual,0
+SYN-00242,6.0,80.77,2,Two year,Fiber optic,Manual,Small business,0
+SYN-00243,47.0,58.25,2,Two year,DSL,Automatic,Family,0
+SYN-00244,45.0,40.1,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-00245,6.0,87.7,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00246,55.0,25.44,2,One year,DSL,Automatic,Individual,0
+SYN-00247,30.0,104.26,2,One year,Fiber optic,Manual,Family,0
+SYN-00248,57.0,54.55,2,Month-to-month,None,Manual,Family,0
+SYN-00249,3.0,21.76,3,Two year,None,Automatic,Individual,0
+SYN-00250,13.0,32.48,0,Month-to-month,DSL,Automatic,Small business,0
+SYN-00251,36.0,52.34,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-00252,13.0,50.46,3,Month-to-month,DSL,Automatic,Family,0
+SYN-00253,24.0,32.42,0,Month-to-month,None,Automatic,Individual,0
+SYN-00254,48.0,67.53,0,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00255,10.0,55.6,3,Month-to-month,DSL,Automatic,Individual,0
+SYN-00256,49.0,19.97,2,Month-to-month,DSL,Automatic,Small business,0
+SYN-00257,7.0,,0,Month-to-month,DSL,Manual,Individual,1
+SYN-00258,12.0,63.43,4,Month-to-month,DSL,Automatic,Small business,1
+SYN-00259,42.0,49.0,0,One year,None,Manual,Individual,0
+SYN-00260,57.0,74.59,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00261,12.0,20.26,2,One year,None,Automatic,Individual,0
+SYN-00262,21.0,18.0,2,Two year,DSL,Manual,Individual,0
+SYN-00263,67.0,69.65,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00264,72.0,26.07,0,Month-to-month,DSL,Automatic,Individual,1
+SYN-00265,42.0,80.65,1,Two year,Fiber optic,Automatic,Family,0
+SYN-00266,32.0,45.76,4,Two year,DSL,Manual,Family,0
+SYN-00267,25.0,48.67,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00268,44.0,96.31,1,Two year,Fiber optic,Automatic,Family,1
+SYN-00269,43.0,18.91,2,Month-to-month,DSL,Manual,Small business,0
+SYN-00270,21.0,81.13,3,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00271,1.0,87.92,1,One year,Fiber optic,Automatic,Family,1
+SYN-00272,11.0,47.46,3,Month-to-month,DSL,Automatic,Family,0
+SYN-00273,69.0,73.87,2,One year,None,,Family,0
+SYN-00274,30.0,78.02,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00275,35.0,69.02,1,One year,Fiber optic,Automatic,Family,0
+SYN-00276,34.0,80.44,0,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00277,57.0,97.09,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00278,4.0,73.37,3,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00279,6.0,19.23,2,Month-to-month,None,Manual,Small business,0
+SYN-00280,20.0,112.85,2,One year,Fiber optic,Automatic,Family,0
+SYN-00281,35.0,36.09,0,Month-to-month,DSL,Manual,Family,0
+SYN-00282,48.0,58.59,2,Month-to-month,DSL,Manual,Family,0
+SYN-00283,35.0,77.6,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00284,32.0,57.81,3,Month-to-month,DSL,,Family,0
+SYN-00285,68.0,57.19,1,Two year,DSL,Manual,Individual,0
+SYN-00286,11.0,42.3,2,Month-to-month,DSL,Automatic,Individual,1
+SYN-00287,41.0,67.74,2,Two year,Fiber optic,Manual,Small business,0
+SYN-00288,39.0,49.38,1,Month-to-month,DSL,Automatic,Small business,0
+SYN-00289,34.0,81.8,5,One year,Fiber optic,Manual,Family,0
+SYN-00290,58.0,77.13,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00291,19.0,73.19,3,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00292,69.0,21.57,0,Two year,DSL,Automatic,Individual,0
+SYN-00293,24.0,90.67,0,Two year,Fiber optic,Manual,Family,0
+SYN-00294,39.0,79.79,1,Two year,Fiber optic,,Small business,0
+SYN-00295,38.0,52.87,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00296,62.0,81.46,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00297,32.0,24.35,3,One year,DSL,Automatic,Individual,0
+SYN-00298,20.0,51.64,2,Month-to-month,None,Manual,Individual,0
+SYN-00299,1.0,30.42,1,One year,DSL,Manual,Individual,0
+SYN-00300,26.0,60.39,0,One year,Fiber optic,Automatic,Individual,0
+SYN-00301,60.0,75.99,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00302,0.0,23.09,2,Two year,DSL,Automatic,Individual,0
+SYN-00303,65.0,91.5,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00304,39.0,50.01,3,Month-to-month,DSL,Manual,Family,0
+SYN-00305,10.0,73.03,5,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00306,22.0,82.69,2,One year,Fiber optic,Automatic,Small business,0
+SYN-00307,40.0,21.94,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00308,23.0,18.24,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-00309,7.0,80.31,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00310,48.0,35.7,1,One year,DSL,Automatic,Family,0
+SYN-00311,49.0,20.7,2,Two year,None,Manual,Individual,0
+SYN-00312,8.0,100.88,1,One year,Fiber optic,Automatic,Family,1
+SYN-00313,20.0,81.83,3,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00314,17.0,18.7,1,Month-to-month,DSL,Automatic,Small business,0
+SYN-00315,48.0,66.95,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00316,53.0,23.25,0,Month-to-month,None,Automatic,Individual,0
+SYN-00317,53.0,58.09,0,One year,DSL,Automatic,Small business,0
+SYN-00318,68.0,46.78,0,One year,DSL,Automatic,Individual,0
+SYN-00319,56.0,29.53,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-00320,23.0,97.49,3,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00321,7.0,57.37,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00322,44.0,66.26,1,Two year,Fiber optic,Manual,Individual,0
+SYN-00323,66.0,76.36,4,One year,Fiber optic,Manual,Individual,0
+SYN-00324,71.0,,5,Month-to-month,DSL,Automatic,Individual,0
+SYN-00325,16.0,33.73,0,Two year,DSL,Automatic,Small business,0
+SYN-00326,17.0,53.22,0,Month-to-month,DSL,Automatic,Family,1
+SYN-00327,2.0,51.02,1,Month-to-month,None,Automatic,Family,0
+SYN-00328,10.0,72.87,2,Two year,Fiber optic,Manual,Individual,0
+SYN-00329,40.0,86.15,2,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00330,39.0,84.46,0,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00331,27.0,38.02,1,One year,DSL,Automatic,Individual,0
+SYN-00332,22.0,40.34,3,Month-to-month,DSL,Manual,Small business,1
+SYN-00333,60.0,52.58,2,One year,DSL,Manual,Family,0
+SYN-00334,33.0,34.68,1,Month-to-month,None,Automatic,Family,0
+SYN-00335,59.0,62.01,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00336,70.0,80.19,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00337,23.0,69.13,1,Month-to-month,DSL,Automatic,Family,0
+SYN-00338,14.0,51.98,1,Month-to-month,DSL,Automatic,Family,0
+SYN-00339,69.0,69.65,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00340,46.0,77.92,6,Two year,Fiber optic,Manual,Individual,0
+SYN-00341,21.0,35.22,0,Month-to-month,None,Automatic,Family,0
+SYN-00342,45.0,,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00343,37.0,77.43,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00344,66.0,81.3,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00345,18.0,32.83,2,Month-to-month,None,Automatic,Individual,0
+SYN-00346,72.0,68.15,3,One year,Fiber optic,Automatic,Individual,0
+SYN-00347,68.0,92.05,2,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00348,13.0,32.37,1,Two year,None,Automatic,Small business,0
+SYN-00349,12.0,37.02,1,Two year,DSL,Manual,Individual,0
+SYN-00350,38.0,57.46,2,Month-to-month,None,Automatic,Family,0
+SYN-00351,3.0,25.37,3,Month-to-month,DSL,Manual,Small business,0
+SYN-00352,21.0,92.52,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00353,31.0,93.57,2,One year,Fiber optic,Automatic,Family,0
+SYN-00354,70.0,69.8,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00355,72.0,78.29,3,Two year,Fiber optic,Manual,Individual,0
+SYN-00356,11.0,89.41,1,One year,Fiber optic,Automatic,Family,0
+SYN-00357,65.0,36.69,1,Two year,DSL,Manual,Small business,0
+SYN-00358,6.0,50.46,2,Month-to-month,DSL,Automatic,Family,1
+SYN-00359,54.0,38.37,2,Two year,DSL,Automatic,Individual,0
+SYN-00360,61.0,92.39,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00361,65.0,59.67,0,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-00362,16.0,30.55,3,Month-to-month,DSL,Automatic,Individual,0
+SYN-00363,65.0,58.67,0,Two year,None,Manual,Family,0
+SYN-00364,8.0,81.25,0,One year,Fiber optic,,Individual,0
+SYN-00365,37.0,95.97,4,One year,Fiber optic,Automatic,Family,0
+SYN-00366,34.0,125.8,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00367,23.0,57.98,2,Two year,DSL,Automatic,Family,0
+SYN-00368,1.0,89.7,0,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00369,56.0,86.01,0,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00370,24.0,22.09,1,Two year,DSL,Automatic,Individual,0
+SYN-00371,48.0,30.91,2,Month-to-month,None,Automatic,Individual,0
+SYN-00372,29.0,99.26,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00373,27.0,80.29,2,One year,Fiber optic,Automatic,Individual,0
+SYN-00374,64.0,55.24,1,Month-to-month,None,Automatic,Family,0
+SYN-00375,6.0,32.21,0,Month-to-month,None,Automatic,Individual,0
+SYN-00376,53.0,30.14,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00377,54.0,72.66,2,Month-to-month,Fiber optic,Manual,Small business,1
+SYN-00378,27.0,84.42,2,Two year,Fiber optic,Automatic,Individual,0
+SYN-00379,19.0,45.93,0,One year,DSL,Automatic,Individual,0
+SYN-00380,0.0,36.92,1,Month-to-month,DSL,Automatic,Family,1
+SYN-00381,68.0,44.91,2,Month-to-month,DSL,Automatic,Small business,0
+SYN-00382,69.0,81.54,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00383,17.0,96.1,1,One year,Fiber optic,Automatic,Family,0
+SYN-00384,2.0,72.5,1,Two year,Fiber optic,Manual,Individual,1
+SYN-00385,8.0,55.36,1,Two year,DSL,Manual,Individual,0
+SYN-00386,4.0,29.57,1,Month-to-month,DSL,Automatic,Small business,0
+SYN-00387,60.0,77.32,0,Month-to-month,Fiber optic,,Small business,1
+SYN-00388,65.0,97.89,3,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00389,11.0,38.64,1,One year,None,Manual,Family,0
+SYN-00390,54.0,34.05,2,Month-to-month,None,Automatic,Individual,0
+SYN-00391,13.0,31.53,2,One year,None,Automatic,Individual,0
+SYN-00392,26.0,28.32,1,Month-to-month,None,Automatic,Small business,0
+SYN-00393,43.0,44.28,2,Month-to-month,None,Automatic,Family,0
+SYN-00394,52.0,89.46,3,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00395,63.0,27.22,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-00396,3.0,42.36,0,Month-to-month,DSL,Automatic,Individual,1
+SYN-00397,14.0,79.09,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00398,20.0,31.84,0,One year,DSL,Manual,Family,0
+SYN-00399,22.0,56.75,0,Month-to-month,DSL,Manual,Family,1
+SYN-00400,72.0,18.0,3,Month-to-month,None,Automatic,Individual,0
+SYN-00401,56.0,58.17,1,One year,DSL,Automatic,Family,0
+SYN-00402,23.0,28.41,2,One year,None,Automatic,Small business,0
+SYN-00403,70.0,75.11,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00404,36.0,58.17,1,Two year,Fiber optic,Manual,Individual,0
+SYN-00405,36.0,91.59,4,Two year,Fiber optic,Automatic,Family,0
+SYN-00406,31.0,47.05,2,One year,DSL,Manual,Individual,0
+SYN-00407,10.0,79.51,0,One year,Fiber optic,Automatic,Family,0
+SYN-00408,68.0,42.11,1,Month-to-month,DSL,Manual,Family,0
+SYN-00409,1.0,40.91,3,Two year,None,Automatic,Individual,0
+SYN-00410,12.0,41.24,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-00411,16.0,18.0,0,Two year,DSL,Automatic,Small business,0
+SYN-00412,20.0,101.2,0,One year,Fiber optic,Automatic,Individual,0
+SYN-00413,9.0,96.87,0,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00414,1.0,99.06,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00415,49.0,88.13,1,One year,Fiber optic,Manual,Family,1
+SYN-00416,70.0,25.88,0,One year,DSL,Manual,Family,0
+SYN-00417,8.0,98.77,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00418,21.0,42.65,4,One year,DSL,Manual,Family,0
+SYN-00419,36.0,42.07,3,Two year,DSL,,Individual,0
+SYN-00420,67.0,32.16,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-00421,50.0,38.09,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-00422,55.0,24.93,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-00423,42.0,86.24,0,One year,Fiber optic,Manual,Individual,0
+SYN-00424,30.0,19.55,3,Month-to-month,DSL,Automatic,Individual,0
+SYN-00425,14.0,64.19,0,Two year,DSL,Automatic,Individual,0
+SYN-00426,63.0,104.09,3,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00427,58.0,56.23,0,One year,DSL,Automatic,Individual,0
+SYN-00428,,106.58,2,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00429,52.0,48.9,3,Month-to-month,None,Automatic,Family,0
+SYN-00430,6.0,105.17,5,One year,Fiber optic,Manual,Family,1
+SYN-00431,53.0,48.75,0,Month-to-month,None,Manual,Family,0
+SYN-00432,60.0,18.0,2,Month-to-month,DSL,Manual,Small business,0
+SYN-00433,9.0,69.54,5,Two year,DSL,Automatic,Family,1
+SYN-00434,31.0,89.67,1,Two year,Fiber optic,Manual,Individual,0
+SYN-00435,9.0,74.59,0,Two year,Fiber optic,Automatic,Small business,0
+SYN-00436,41.0,19.07,3,Month-to-month,None,Automatic,Individual,0
+SYN-00437,67.0,42.38,3,One year,DSL,Manual,Family,0
+SYN-00438,5.0,66.33,3,Two year,Fiber optic,Manual,Family,0
+SYN-00439,29.0,87.29,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00440,71.0,29.16,1,Month-to-month,DSL,Manual,Family,0
+SYN-00441,21.0,38.73,2,Two year,DSL,Automatic,Individual,0
+SYN-00442,9.0,24.03,0,Month-to-month,None,Automatic,Individual,0
+SYN-00443,35.0,18.0,0,One year,DSL,Manual,Individual,0
+SYN-00444,37.0,78.1,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-00445,48.0,70.66,1,One year,Fiber optic,Manual,Individual,0
+SYN-00446,22.0,100.9,0,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00447,69.0,73.52,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00448,38.0,25.15,3,Month-to-month,None,Manual,Individual,0
+SYN-00449,20.0,18.96,0,Month-to-month,DSL,Manual,Family,0
+SYN-00450,70.0,18.0,2,One year,DSL,Automatic,Individual,0
+SYN-00451,67.0,98.38,4,Two year,Fiber optic,Manual,Individual,1
+SYN-00452,36.0,117.09,3,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00453,1.0,36.21,2,Month-to-month,DSL,Manual,Small business,0
+SYN-00454,43.0,24.29,4,Two year,DSL,Automatic,Individual,0
+SYN-00455,40.0,31.12,3,Month-to-month,DSL,Automatic,Individual,0
+SYN-00456,10.0,61.36,0,Month-to-month,DSL,Manual,Family,1
+SYN-00457,46.0,28.31,3,Month-to-month,DSL,Automatic,Small business,1
+SYN-00458,61.0,38.09,1,One year,None,Automatic,Individual,0
+SYN-00459,7.0,34.83,1,Month-to-month,DSL,Manual,Individual,0
+SYN-00460,52.0,27.61,3,One year,None,Automatic,Individual,1
+SYN-00461,10.0,43.16,0,Month-to-month,None,Automatic,Family,0
+SYN-00462,54.0,38.81,4,One year,DSL,Automatic,Small business,0
+SYN-00463,30.0,77.3,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00464,0.0,,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00465,70.0,83.87,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00466,12.0,,3,Month-to-month,DSL,Automatic,Family,0
+SYN-00467,43.0,67.99,1,Month-to-month,DSL,Automatic,Family,1
+SYN-00468,13.0,47.81,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00469,68.0,86.96,2,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00470,53.0,18.0,1,Month-to-month,None,Manual,Individual,0
+SYN-00471,58.0,83.89,0,Two year,Fiber optic,Automatic,Family,0
+SYN-00472,31.0,75.36,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00473,34.0,60.0,1,One year,None,Manual,Small business,1
+SYN-00474,46.0,64.52,1,Two year,Fiber optic,Automatic,Family,1
+SYN-00475,57.0,33.75,0,Month-to-month,DSL,,Individual,1
+SYN-00476,61.0,53.94,1,One year,None,Automatic,Individual,0
+SYN-00477,1.0,79.79,2,Two year,Fiber optic,Automatic,Family,0
+SYN-00478,48.0,32.23,1,One year,DSL,Manual,Individual,0
+SYN-00479,7.0,94.31,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00480,21.0,37.4,3,Month-to-month,None,Manual,Individual,1
+SYN-00481,60.0,55.36,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00482,18.0,95.83,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00483,58.0,52.26,3,Two year,DSL,Automatic,Individual,0
+SYN-00484,33.0,45.32,1,Two year,DSL,Automatic,Family,0
+SYN-00485,16.0,40.37,4,Month-to-month,DSL,Automatic,Family,0
+SYN-00486,24.0,72.07,1,One year,Fiber optic,Manual,Individual,0
+SYN-00487,38.0,34.93,1,Month-to-month,None,Automatic,Family,0
+SYN-00488,55.0,56.29,0,Two year,DSL,Manual,Family,1
+SYN-00489,44.0,44.98,1,Month-to-month,DSL,Automatic,Family,0
+SYN-00490,68.0,26.27,1,Two year,DSL,Automatic,Individual,0
+SYN-00491,63.0,41.48,2,Two year,DSL,Manual,Individual,0
+SYN-00492,54.0,75.13,3,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00493,44.0,100.02,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00494,21.0,83.78,1,Two year,Fiber optic,Automatic,Family,0
+SYN-00495,30.0,105.07,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00496,8.0,84.89,2,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00497,27.0,43.21,0,Two year,DSL,Automatic,Individual,0
+SYN-00498,67.0,52.33,1,One year,DSL,Automatic,Family,0
+SYN-00499,31.0,44.67,3,Month-to-month,None,Manual,Individual,0
+SYN-00500,8.0,76.43,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00501,47.0,28.38,2,Month-to-month,None,Manual,Family,1
+SYN-00502,70.0,63.11,0,Two year,None,Manual,Family,0
+SYN-00503,63.0,73.86,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00504,20.0,45.26,1,Month-to-month,None,Automatic,Small business,1
+SYN-00505,33.0,98.97,1,Month-to-month,Fiber optic,,Family,1
+SYN-00506,38.0,39.95,5,Two year,DSL,Manual,Family,0
+SYN-00507,18.0,23.11,0,Month-to-month,DSL,,Small business,1
+SYN-00508,19.0,43.52,1,Two year,DSL,Manual,Individual,0
+SYN-00509,17.0,46.06,1,One year,DSL,Automatic,Family,0
+SYN-00510,72.0,87.17,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-00511,54.0,72.68,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-00512,61.0,88.3,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-00513,59.0,80.5,0,Two year,Fiber optic,Manual,Individual,0
+SYN-00514,70.0,53.74,1,Month-to-month,DSL,Automatic,Family,0
+SYN-00515,,70.14,0,One year,Fiber optic,Automatic,Individual,0
+SYN-00516,64.0,93.02,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00517,4.0,50.51,1,Month-to-month,DSL,Automatic,Individual,1
+SYN-00518,34.0,34.3,0,Two year,DSL,Manual,Individual,0
+SYN-00519,43.0,41.91,2,Two year,DSL,Automatic,Small business,0
+SYN-00520,26.0,50.6,0,One year,DSL,Manual,Family,0
+SYN-00521,10.0,76.62,0,Month-to-month,Fiber optic,Manual,Small business,1
+SYN-00522,14.0,112.4,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00523,60.0,90.62,3,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00524,23.0,51.03,3,Month-to-month,DSL,Manual,Family,0
+SYN-00525,22.0,92.79,4,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00526,67.0,65.88,3,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00527,10.0,32.75,0,Month-to-month,DSL,Automatic,Small business,0
+SYN-00528,66.0,94.02,0,One year,Fiber optic,Automatic,Family,0
+SYN-00529,67.0,101.06,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00530,43.0,99.74,2,Two year,Fiber optic,Automatic,Family,0
+SYN-00531,12.0,35.58,0,One year,DSL,Manual,Family,0
+SYN-00532,11.0,87.7,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00533,20.0,33.85,0,Month-to-month,DSL,Automatic,Small business,1
+SYN-00534,42.0,22.17,2,Month-to-month,DSL,Manual,Individual,1
+SYN-00535,11.0,52.37,1,Two year,DSL,Automatic,Individual,0
+SYN-00536,33.0,54.02,0,Month-to-month,None,Manual,Individual,0
+SYN-00537,8.0,53.43,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00538,39.0,84.21,0,Two year,Fiber optic,Manual,Small business,0
+SYN-00539,1.0,44.98,1,Two year,DSL,Manual,Small business,0
+SYN-00540,51.0,68.15,1,Month-to-month,None,Automatic,Family,0
+SYN-00541,4.0,84.46,0,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00542,14.0,32.74,0,Month-to-month,None,Automatic,Family,0
+SYN-00543,12.0,61.13,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-00544,60.0,63.85,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00545,3.0,68.38,2,One year,Fiber optic,Manual,Individual,0
+SYN-00546,31.0,21.61,0,Two year,DSL,Automatic,Individual,0
+SYN-00547,43.0,81.56,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00548,37.0,31.38,0,One year,None,Automatic,Individual,0
+SYN-00549,49.0,79.29,2,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-00550,58.0,44.66,2,One year,None,Automatic,Small business,0
+SYN-00551,28.0,67.64,0,One year,Fiber optic,Automatic,Individual,0
+SYN-00552,60.0,35.49,1,Two year,DSL,Automatic,Family,0
+SYN-00553,23.0,80.02,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-00554,71.0,28.07,1,Month-to-month,DSL,Manual,Individual,1
+SYN-00555,36.0,76.9,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00556,53.0,18.0,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-00557,63.0,31.72,3,Month-to-month,DSL,Automatic,Individual,1
+SYN-00558,57.0,,2,Two year,Fiber optic,Manual,Individual,0
+SYN-00559,62.0,42.88,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-00560,39.0,24.75,2,One year,DSL,Automatic,Individual,0
+SYN-00561,3.0,59.81,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00562,35.0,35.2,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-00563,13.0,82.29,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00564,64.0,55.27,1,One year,DSL,Manual,Family,0
+SYN-00565,17.0,28.34,0,One year,DSL,Automatic,Individual,0
+SYN-00566,16.0,53.87,1,Month-to-month,DSL,Manual,Family,0
+SYN-00567,18.0,94.53,0,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00568,46.0,52.67,1,One year,None,Automatic,Family,0
+SYN-00569,41.0,28.77,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00570,69.0,52.64,2,Two year,None,Automatic,Family,0
+SYN-00571,30.0,116.57,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00572,20.0,58.26,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00573,,75.39,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00574,0.0,72.06,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00575,27.0,91.25,1,Month-to-month,Fiber optic,,Family,0
+SYN-00576,67.0,77.53,1,Month-to-month,Fiber optic,,Individual,0
+SYN-00577,38.0,89.82,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-00578,65.0,51.1,1,Month-to-month,DSL,Automatic,Family,0
+SYN-00579,7.0,51.6,0,Month-to-month,DSL,Manual,Individual,0
+SYN-00580,6.0,73.47,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00581,60.0,45.45,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00582,7.0,26.3,2,One year,DSL,Automatic,Individual,0
+SYN-00583,3.0,26.38,1,Month-to-month,DSL,Automatic,Family,0
+SYN-00584,29.0,38.59,3,One year,DSL,Manual,Small business,0
+SYN-00585,67.0,101.7,2,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00586,50.0,80.96,1,Two year,Fiber optic,Manual,Individual,1
+SYN-00587,7.0,,4,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00588,61.0,44.63,5,Two year,DSL,Manual,Family,1
+SYN-00589,61.0,86.82,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00590,58.0,102.8,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00591,65.0,101.11,0,Two year,Fiber optic,Manual,Individual,0
+SYN-00592,17.0,94.34,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00593,71.0,85.47,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00594,23.0,75.46,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00595,58.0,37.73,0,One year,None,Automatic,Individual,0
+SYN-00596,42.0,65.2,1,Two year,Fiber optic,Manual,Small business,0
+SYN-00597,56.0,56.17,1,One year,Fiber optic,Manual,Individual,0
+SYN-00598,45.0,75.35,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00599,46.0,35.65,2,One year,DSL,Manual,Small business,0
+SYN-00600,44.0,31.2,1,One year,None,Automatic,Individual,0
+SYN-00601,56.0,30.9,0,Two year,DSL,Automatic,Family,0
+SYN-00602,53.0,49.51,4,Month-to-month,DSL,Automatic,Family,0
+SYN-00603,9.0,30.86,1,Month-to-month,None,Manual,Individual,1
+SYN-00604,60.0,74.75,0,Two year,Fiber optic,Manual,Family,0
+SYN-00605,39.0,45.19,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00606,23.0,45.83,1,One year,DSL,Automatic,Family,0
+SYN-00607,37.0,41.98,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00608,70.0,87.05,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00609,62.0,18.0,1,One year,DSL,Manual,Individual,0
+SYN-00610,60.0,24.18,2,Month-to-month,None,Automatic,Family,0
+SYN-00611,33.0,50.04,0,Month-to-month,None,Manual,Family,1
+SYN-00612,57.0,91.25,2,One year,Fiber optic,Manual,Family,1
+SYN-00613,28.0,95.25,1,One year,Fiber optic,Manual,Family,0
+SYN-00614,50.0,42.99,0,Two year,DSL,Automatic,Family,0
+SYN-00615,46.0,23.07,1,Month-to-month,DSL,Manual,Small business,0
+SYN-00616,18.0,74.9,2,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00617,19.0,44.26,0,Two year,DSL,Manual,Family,0
+SYN-00618,4.0,55.16,3,Month-to-month,DSL,Automatic,Individual,0
+SYN-00619,10.0,45.79,2,Month-to-month,DSL,Automatic,Family,0
+SYN-00620,31.0,49.31,3,Month-to-month,DSL,Manual,Family,1
+SYN-00621,34.0,122.18,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00622,12.0,72.47,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-00623,30.0,97.23,0,One year,Fiber optic,Automatic,Family,0
+SYN-00624,44.0,83.4,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00625,16.0,44.51,1,Month-to-month,None,Automatic,Individual,0
+SYN-00626,24.0,,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00627,,37.52,1,Month-to-month,None,Automatic,Small business,0
+SYN-00628,36.0,76.3,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00629,26.0,27.51,0,Month-to-month,DSL,Manual,Small business,0
+SYN-00630,53.0,39.23,1,Month-to-month,None,Automatic,Individual,0
+SYN-00631,23.0,76.37,1,Month-to-month,DSL,Automatic,Family,1
+SYN-00632,31.0,65.74,2,Month-to-month,DSL,Automatic,Family,0
+SYN-00633,27.0,53.95,4,One year,DSL,Automatic,Family,0
+SYN-00634,13.0,101.13,3,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00635,50.0,78.7,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00636,17.0,71.61,1,One year,Fiber optic,Automatic,Small business,0
+SYN-00637,21.0,62.32,1,One year,None,Automatic,Family,0
+SYN-00638,57.0,54.33,1,Two year,DSL,Automatic,Individual,0
+SYN-00639,69.0,64.98,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00640,48.0,43.71,0,Two year,DSL,Manual,Family,0
+SYN-00641,66.0,118.36,4,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00642,62.0,51.25,4,Month-to-month,DSL,Automatic,Family,0
+SYN-00643,35.0,73.7,1,Month-to-month,DSL,Manual,Family,0
+SYN-00644,,77.69,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00645,23.0,93.2,2,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00646,33.0,86.03,0,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00647,39.0,102.25,1,One year,Fiber optic,Automatic,Family,0
+SYN-00648,70.0,107.65,0,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00649,61.0,61.54,3,Month-to-month,Fiber optic,Automatic,Small business,1
+SYN-00650,35.0,45.42,1,Month-to-month,DSL,Manual,Family,0
+SYN-00651,47.0,46.9,2,Month-to-month,DSL,Automatic,Small business,0
+SYN-00652,14.0,33.32,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-00653,58.0,43.59,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00654,40.0,103.12,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00655,38.0,104.34,1,One year,Fiber optic,Automatic,Family,0
+SYN-00656,55.0,69.15,4,Two year,Fiber optic,Automatic,Individual,0
+SYN-00657,46.0,92.76,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00658,5.0,59.29,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00659,21.0,63.36,0,Two year,Fiber optic,Automatic,Small business,0
+SYN-00660,12.0,36.61,0,Two year,DSL,Manual,Individual,0
+SYN-00661,53.0,35.41,1,One year,DSL,Manual,Individual,0
+SYN-00662,2.0,77.43,1,Two year,Fiber optic,Automatic,Family,0
+SYN-00663,14.0,65.69,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-00664,43.0,21.15,3,One year,DSL,,Individual,1
+SYN-00665,50.0,55.92,2,Month-to-month,DSL,Manual,Family,0
+SYN-00666,36.0,64.42,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00667,62.0,61.85,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00668,67.0,25.78,0,Month-to-month,DSL,,Family,0
+SYN-00669,9.0,95.45,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00670,69.0,26.56,0,Month-to-month,None,Manual,Family,0
+SYN-00671,44.0,35.41,4,One year,DSL,Manual,Individual,0
+SYN-00672,46.0,56.31,0,Month-to-month,None,Manual,Individual,0
+SYN-00673,6.0,56.75,1,Two year,DSL,Automatic,Small business,0
+SYN-00674,45.0,66.52,3,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00675,52.0,78.88,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00676,42.0,37.14,0,One year,DSL,Automatic,Family,0
+SYN-00677,6.0,19.49,0,Two year,None,Automatic,Individual,0
+SYN-00678,38.0,88.52,0,Two year,Fiber optic,Automatic,Family,0
+SYN-00679,68.0,65.97,1,Two year,None,Automatic,Family,0
+SYN-00680,52.0,42.8,0,Two year,DSL,Manual,Small business,0
+SYN-00681,10.0,25.7,2,Month-to-month,None,Automatic,Small business,1
+SYN-00682,70.0,44.17,1,Month-to-month,None,Automatic,Individual,0
+SYN-00683,69.0,60.83,2,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00684,12.0,25.21,1,One year,DSL,Automatic,Individual,0
+SYN-00685,58.0,79.29,0,Two year,Fiber optic,Manual,Family,0
+SYN-00686,29.0,91.02,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00687,43.0,32.36,0,Month-to-month,None,Automatic,Individual,0
+SYN-00688,32.0,73.16,2,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00689,57.0,32.73,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00690,72.0,35.29,2,Month-to-month,DSL,Manual,Individual,0
+SYN-00691,58.0,82.02,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00692,67.0,36.94,1,Two year,None,Automatic,Small business,0
+SYN-00693,69.0,46.3,0,Month-to-month,DSL,Manual,Family,0
+SYN-00694,6.0,95.22,1,Two year,Fiber optic,Manual,Family,1
+SYN-00695,18.0,60.74,2,One year,None,Manual,Family,0
+SYN-00696,52.0,42.77,3,Month-to-month,DSL,Automatic,Family,0
+SYN-00697,43.0,34.23,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00698,3.0,90.1,0,Two year,Fiber optic,Manual,Small business,0
+SYN-00699,6.0,75.66,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00700,37.0,73.46,0,Two year,DSL,Automatic,Family,0
+SYN-00701,44.0,57.59,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00702,12.0,85.51,3,One year,Fiber optic,Automatic,Family,0
+SYN-00703,12.0,37.65,2,Two year,None,Automatic,Family,0
+SYN-00704,9.0,63.44,2,Month-to-month,None,Automatic,Small business,1
+SYN-00705,41.0,68.46,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00706,0.0,83.49,0,Two year,Fiber optic,Automatic,Family,0
+SYN-00707,41.0,30.18,2,Month-to-month,DSL,Manual,Individual,0
+SYN-00708,34.0,76.24,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00709,34.0,45.73,4,Month-to-month,DSL,Automatic,Family,1
+SYN-00710,49.0,73.27,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00711,38.0,18.0,0,One year,DSL,Automatic,Small business,0
+SYN-00712,53.0,75.74,1,One year,Fiber optic,Manual,Individual,1
+SYN-00713,55.0,50.23,2,Month-to-month,DSL,Manual,Family,1
+SYN-00714,67.0,48.5,2,Two year,DSL,Automatic,Individual,0
+SYN-00715,58.0,52.02,2,Month-to-month,DSL,Automatic,Small business,0
+SYN-00716,37.0,72.56,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00717,35.0,85.61,2,One year,Fiber optic,Automatic,Individual,1
+SYN-00718,17.0,20.68,1,Two year,DSL,Automatic,Individual,0
+SYN-00719,43.0,59.98,3,Month-to-month,None,Automatic,Family,1
+SYN-00720,10.0,27.56,0,Month-to-month,None,Automatic,Small business,0
+SYN-00721,67.0,19.6,0,Month-to-month,DSL,Automatic,Small business,0
+SYN-00722,61.0,72.59,0,One year,Fiber optic,Automatic,Individual,0
+SYN-00723,8.0,108.21,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00724,57.0,37.35,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-00725,8.0,109.45,1,One year,Fiber optic,Automatic,Family,0
+SYN-00726,52.0,40.27,2,Month-to-month,DSL,Automatic,Family,0
+SYN-00727,6.0,48.62,1,Month-to-month,None,Automatic,Individual,0
+SYN-00728,35.0,41.52,0,Month-to-month,None,Automatic,Family,0
+SYN-00729,48.0,77.93,1,Month-to-month,Fiber optic,Automatic,Small business,1
+SYN-00730,53.0,77.82,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00731,30.0,83.6,1,Two year,Fiber optic,Manual,Individual,0
+SYN-00732,67.0,38.26,0,One year,None,Automatic,Individual,0
+SYN-00733,56.0,25.39,0,One year,DSL,Automatic,Individual,0
+SYN-00734,15.0,46.44,0,Two year,DSL,Manual,Individual,0
+SYN-00735,48.0,112.51,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00736,53.0,27.41,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-00737,24.0,26.14,1,Two year,DSL,Automatic,Family,0
+SYN-00738,53.0,41.49,1,Month-to-month,DSL,Automatic,Small business,0
+SYN-00739,65.0,70.69,1,One year,Fiber optic,Automatic,Small business,0
+SYN-00740,59.0,48.3,3,One year,DSL,Automatic,Family,0
+SYN-00741,55.0,42.23,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00742,46.0,29.07,2,Month-to-month,DSL,Automatic,Individual,1
+SYN-00743,19.0,71.5,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00744,58.0,33.7,0,Month-to-month,None,Automatic,Small business,0
+SYN-00745,26.0,54.11,1,Month-to-month,DSL,Manual,Small business,0
+SYN-00746,38.0,75.39,5,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00747,22.0,58.94,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00748,22.0,34.45,1,Two year,DSL,Automatic,Family,0
+SYN-00749,11.0,76.81,1,One year,Fiber optic,Manual,Individual,0
+SYN-00750,70.0,60.32,2,Month-to-month,Fiber optic,Automatic,Small business,1
+SYN-00751,10.0,54.69,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00752,6.0,43.26,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00753,68.0,43.9,1,Month-to-month,DSL,Manual,Individual,0
+SYN-00754,40.0,30.21,1,Two year,None,Manual,Individual,0
+SYN-00755,31.0,78.82,3,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00756,53.0,37.45,2,Month-to-month,None,Manual,Small business,1
+SYN-00757,27.0,42.83,3,Two year,None,,Individual,0
+SYN-00758,9.0,57.86,2,Month-to-month,DSL,Automatic,Family,0
+SYN-00759,53.0,41.12,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00760,12.0,,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00761,40.0,81.73,2,One year,Fiber optic,Automatic,Individual,0
+SYN-00762,,,1,One year,DSL,Automatic,Individual,0
+SYN-00763,68.0,35.47,4,Month-to-month,DSL,Manual,Individual,0
+SYN-00764,26.0,84.76,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-00765,56.0,91.05,0,Two year,Fiber optic,Automatic,Family,0
+SYN-00766,44.0,109.6,2,Two year,Fiber optic,Automatic,Family,0
+SYN-00767,34.0,49.65,1,Month-to-month,DSL,Manual,Small business,0
+SYN-00768,10.0,33.46,0,Month-to-month,DSL,Manual,Individual,0
+SYN-00769,27.0,47.43,1,Two year,None,Automatic,Family,0
+SYN-00770,47.0,52.95,3,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00771,72.0,70.76,2,One year,Fiber optic,Manual,Individual,0
+SYN-00772,0.0,57.41,1,One year,Fiber optic,Manual,Individual,0
+SYN-00773,52.0,92.88,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00774,61.0,91.99,0,One year,Fiber optic,Automatic,Family,0
+SYN-00775,69.0,84.05,2,Two year,Fiber optic,Manual,Individual,0
+SYN-00776,30.0,93.16,0,One year,Fiber optic,Automatic,Individual,0
+SYN-00777,8.0,34.66,0,Month-to-month,None,,Small business,0
+SYN-00778,19.0,64.65,2,Two year,None,Automatic,Individual,0
+SYN-00779,62.0,78.02,1,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-00780,64.0,72.97,2,One year,Fiber optic,Manual,Family,0
+SYN-00781,46.0,82.69,2,Two year,Fiber optic,Automatic,Family,1
+SYN-00782,8.0,85.15,0,One year,Fiber optic,,Family,0
+SYN-00783,8.0,82.7,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00784,34.0,77.69,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00785,42.0,86.13,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00786,2.0,87.91,3,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00787,50.0,69.17,4,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00788,39.0,45.55,2,One year,DSL,Automatic,Individual,0
+SYN-00789,0.0,83.34,2,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00790,6.0,105.17,1,One year,Fiber optic,Automatic,Family,1
+SYN-00791,33.0,45.7,0,Two year,DSL,Automatic,Family,0
+SYN-00792,52.0,65.63,1,Month-to-month,None,Manual,Family,0
+SYN-00793,60.0,72.27,1,One year,Fiber optic,Manual,Family,0
+SYN-00794,31.0,31.95,2,One year,DSL,Manual,Family,0
+SYN-00795,21.0,59.22,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00796,70.0,90.12,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00797,33.0,90.63,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00798,23.0,67.17,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-00799,32.0,28.8,0,One year,None,Automatic,Individual,0
+SYN-00800,0.0,72.19,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-00801,22.0,82.45,2,Two year,Fiber optic,Manual,Individual,0
+SYN-00802,37.0,43.79,0,Month-to-month,DSL,Manual,Family,0
+SYN-00803,67.0,68.07,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00804,53.0,57.51,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00805,57.0,67.57,0,Two year,Fiber optic,Manual,Individual,0
+SYN-00806,39.0,105.31,0,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00807,8.0,91.18,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00808,28.0,65.38,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-00809,72.0,51.07,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-00810,3.0,27.39,2,One year,None,Automatic,Small business,0
+SYN-00811,64.0,108.46,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00812,49.0,68.25,1,Two year,None,Automatic,Family,0
+SYN-00813,20.0,50.73,1,Two year,None,Manual,Family,0
+SYN-00814,56.0,30.52,3,Month-to-month,None,Automatic,Family,0
+SYN-00815,61.0,104.76,2,One year,Fiber optic,Automatic,Small business,0
+SYN-00816,3.0,80.03,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00817,7.0,45.79,1,One year,DSL,Manual,Family,0
+SYN-00818,48.0,87.43,2,One year,Fiber optic,Automatic,Individual,0
+SYN-00819,72.0,99.13,3,Two year,Fiber optic,Automatic,Family,0
+SYN-00820,1.0,92.04,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00821,48.0,26.39,5,Month-to-month,None,Manual,Individual,0
+SYN-00822,9.0,39.14,2,One year,DSL,Manual,Small business,0
+SYN-00823,47.0,59.58,0,One year,Fiber optic,Automatic,Small business,0
+SYN-00824,45.0,83.66,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00825,6.0,74.7,3,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00826,49.0,38.65,1,Month-to-month,DSL,Manual,Individual,0
+SYN-00827,65.0,33.1,0,Two year,DSL,Manual,Individual,0
+SYN-00828,63.0,71.74,0,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00829,2.0,63.71,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00830,17.0,45.28,0,Two year,DSL,Manual,Individual,0
+SYN-00831,17.0,69.37,1,Month-to-month,DSL,Manual,Family,0
+SYN-00832,33.0,67.76,0,One year,Fiber optic,Automatic,Individual,0
+SYN-00833,10.0,42.2,3,Month-to-month,DSL,Automatic,Individual,0
+SYN-00834,62.0,80.62,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-00835,56.0,90.11,3,One year,Fiber optic,Manual,Family,1
+SYN-00836,59.0,18.0,1,Two year,DSL,Manual,Individual,0
+SYN-00837,14.0,58.08,2,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00838,1.0,39.85,0,Month-to-month,DSL,Manual,Family,0
+SYN-00839,66.0,18.0,0,One year,DSL,Automatic,Individual,0
+SYN-00840,21.0,53.3,0,Month-to-month,None,Automatic,Individual,1
+SYN-00841,47.0,94.78,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00842,66.0,49.61,1,Month-to-month,None,Manual,Family,0
+SYN-00843,2.0,18.0,2,Two year,DSL,Automatic,Individual,0
+SYN-00844,0.0,18.0,4,One year,DSL,Automatic,Small business,0
+SYN-00845,0.0,89.97,1,One year,Fiber optic,Automatic,Family,0
+SYN-00846,11.0,100.62,1,One year,Fiber optic,Manual,Individual,0
+SYN-00847,3.0,40.92,0,Month-to-month,None,Manual,Family,0
+SYN-00848,59.0,61.23,0,Month-to-month,DSL,Manual,Family,0
+SYN-00849,44.0,43.76,2,Month-to-month,None,Automatic,Family,0
+SYN-00850,71.0,50.72,1,One year,None,Manual,Family,0
+SYN-00851,58.0,105.79,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00852,70.0,30.5,0,Two year,DSL,Manual,Small business,0
+SYN-00853,17.0,81.03,3,Two year,Fiber optic,Manual,Family,0
+SYN-00854,21.0,68.43,2,Month-to-month,DSL,Manual,Family,1
+SYN-00855,62.0,90.59,1,One year,Fiber optic,Manual,Family,0
+SYN-00856,17.0,89.19,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00857,4.0,26.09,1,Two year,None,Automatic,Small business,0
+SYN-00858,48.0,93.29,2,Two year,Fiber optic,Automatic,Individual,0
+SYN-00859,58.0,78.56,0,Two year,Fiber optic,Manual,Individual,0
+SYN-00860,70.0,95.65,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00861,67.0,76.71,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00862,8.0,43.43,1,Month-to-month,None,Automatic,Family,0
+SYN-00863,56.0,49.98,1,Month-to-month,DSL,Manual,Family,0
+SYN-00864,61.0,29.25,3,Month-to-month,None,Manual,Small business,1
+SYN-00865,50.0,87.47,4,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00866,59.0,47.36,5,Two year,None,Automatic,Family,0
+SYN-00867,61.0,55.55,4,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00868,32.0,68.17,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00869,2.0,18.0,4,Two year,DSL,Automatic,Individual,0
+SYN-00870,33.0,98.03,0,One year,Fiber optic,Automatic,Family,0
+SYN-00871,14.0,35.03,5,One year,DSL,Manual,Family,0
+SYN-00872,8.0,53.9,2,One year,DSL,Automatic,Family,0
+SYN-00873,,91.78,0,Two year,Fiber optic,Automatic,Family,0
+SYN-00874,50.0,34.16,0,One year,DSL,Manual,Individual,0
+SYN-00875,36.0,80.7,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00876,39.0,77.06,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00877,54.0,18.0,1,Month-to-month,DSL,Manual,Small business,0
+SYN-00878,40.0,70.79,2,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00879,45.0,40.53,0,Month-to-month,DSL,Manual,Individual,0
+SYN-00880,6.0,,4,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00881,62.0,96.92,1,One year,Fiber optic,Manual,Individual,0
+SYN-00882,32.0,72.28,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00883,,70.45,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00884,59.0,18.0,0,Month-to-month,None,Automatic,Individual,0
+SYN-00885,53.0,94.76,0,Two year,Fiber optic,Manual,Individual,0
+SYN-00886,3.0,88.17,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00887,14.0,79.56,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00888,1.0,77.16,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-00889,19.0,67.95,2,Month-to-month,DSL,Manual,Family,1
+SYN-00890,7.0,105.75,0,One year,Fiber optic,Automatic,Family,0
+SYN-00891,51.0,50.05,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00892,38.0,95.94,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-00893,71.0,45.46,2,One year,DSL,Automatic,Family,0
+SYN-00894,54.0,59.97,1,Two year,DSL,Automatic,Family,0
+SYN-00895,44.0,45.61,0,Month-to-month,None,Automatic,Small business,0
+SYN-00896,37.0,32.52,1,One year,None,Automatic,Individual,0
+SYN-00897,3.0,30.43,0,Month-to-month,None,Automatic,Small business,0
+SYN-00898,5.0,64.73,3,Month-to-month,None,Manual,Family,0
+SYN-00899,44.0,111.63,2,One year,Fiber optic,Automatic,Family,0
+SYN-00900,0.0,25.26,1,One year,DSL,Manual,Individual,0
+SYN-00901,3.0,31.58,2,One year,DSL,Automatic,Individual,0
+SYN-00902,15.0,79.56,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00903,64.0,41.33,0,One year,DSL,Automatic,Small business,0
+SYN-00904,33.0,43.21,1,One year,None,Automatic,Family,0
+SYN-00905,51.0,59.49,0,One year,DSL,Manual,Individual,0
+SYN-00906,30.0,55.49,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00907,12.0,41.91,4,Month-to-month,DSL,Automatic,Individual,0
+SYN-00908,27.0,57.87,1,Month-to-month,DSL,Automatic,Individual,1
+SYN-00909,6.0,44.16,1,Month-to-month,DSL,Manual,Family,0
+SYN-00910,56.0,88.85,3,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00911,13.0,33.71,1,Month-to-month,DSL,Manual,Family,0
+SYN-00912,27.0,87.76,1,One year,Fiber optic,Automatic,Family,0
+SYN-00913,71.0,30.64,3,Month-to-month,None,Automatic,Family,0
+SYN-00914,43.0,99.72,1,Two year,Fiber optic,Manual,Family,0
+SYN-00915,33.0,80.46,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00916,39.0,86.4,2,One year,Fiber optic,Automatic,Family,0
+SYN-00917,57.0,48.69,2,Month-to-month,DSL,Manual,Family,0
+SYN-00918,18.0,44.9,2,Month-to-month,DSL,Automatic,Individual,1
+SYN-00919,46.0,20.23,0,One year,None,Automatic,Individual,0
+SYN-00920,63.0,77.65,2,Two year,Fiber optic,Automatic,Individual,0
+SYN-00921,41.0,44.09,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00922,32.0,66.83,2,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00923,10.0,83.9,2,One year,Fiber optic,Automatic,Individual,0
+SYN-00924,18.0,68.24,0,One year,Fiber optic,Manual,Family,0
+SYN-00925,69.0,73.47,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00926,39.0,19.88,2,Month-to-month,None,Manual,Individual,0
+SYN-00927,21.0,93.61,2,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-00928,30.0,59.96,1,Two year,Fiber optic,Manual,Individual,0
+SYN-00929,42.0,18.0,3,Month-to-month,DSL,Manual,Small business,0
+SYN-00930,39.0,36.73,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-00931,51.0,29.62,1,Two year,None,Automatic,Individual,0
+SYN-00932,18.0,55.44,2,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00933,47.0,81.84,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00934,32.0,64.11,2,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00935,68.0,36.53,1,Month-to-month,DSL,Automatic,Family,0
+SYN-00936,11.0,67.52,3,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00937,10.0,60.43,4,Month-to-month,DSL,Automatic,Family,0
+SYN-00938,33.0,106.84,0,One year,Fiber optic,Manual,Family,0
+SYN-00939,37.0,104.34,2,One year,Fiber optic,Automatic,Family,0
+SYN-00940,,48.01,1,Month-to-month,DSL,Automatic,Family,0
+SYN-00941,29.0,18.0,1,One year,DSL,Manual,Individual,0
+SYN-00942,66.0,95.08,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00943,34.0,69.12,2,Two year,DSL,Manual,Family,0
+SYN-00944,9.0,51.04,1,Month-to-month,DSL,Manual,Individual,0
+SYN-00945,8.0,,2,One year,Fiber optic,Automatic,Small business,0
+SYN-00946,71.0,59.54,1,Month-to-month,Fiber optic,Manual,Small business,1
+SYN-00947,9.0,68.17,1,One year,Fiber optic,Automatic,Individual,0
+SYN-00948,69.0,75.14,1,Month-to-month,DSL,Automatic,Family,0
+SYN-00949,20.0,31.58,1,One year,None,Automatic,Family,0
+SYN-00950,6.0,35.08,1,Month-to-month,DSL,Automatic,Family,1
+SYN-00951,22.0,62.25,2,Two year,DSL,Automatic,Family,0
+SYN-00952,44.0,29.39,1,Month-to-month,DSL,Manual,Small business,0
+SYN-00953,31.0,34.64,1,One year,DSL,Automatic,Family,0
+SYN-00954,57.0,69.86,3,Two year,DSL,Manual,Family,1
+SYN-00955,44.0,40.99,1,Two year,DSL,Automatic,Individual,0
+SYN-00956,29.0,30.04,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-00957,46.0,60.1,1,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-00958,70.0,76.62,2,Month-to-month,None,Automatic,Family,0
+SYN-00959,30.0,34.68,3,Month-to-month,DSL,Automatic,Individual,1
+SYN-00960,11.0,53.17,2,One year,DSL,Manual,Small business,0
+SYN-00961,29.0,61.62,1,Two year,None,Automatic,Family,0
+SYN-00962,61.0,43.23,2,Two year,None,Automatic,Family,0
+SYN-00963,15.0,68.33,1,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00964,69.0,68.8,3,One year,DSL,Automatic,Family,0
+SYN-00965,42.0,94.01,0,Two year,Fiber optic,Manual,Individual,0
+SYN-00966,43.0,18.0,2,Two year,DSL,Manual,Individual,0
+SYN-00967,23.0,57.15,1,Month-to-month,DSL,Automatic,Family,1
+SYN-00968,67.0,73.42,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00969,2.0,61.57,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-00970,21.0,78.4,0,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-00971,30.0,57.46,2,Month-to-month,Fiber optic,Automatic,Small business,1
+SYN-00972,34.0,28.94,2,Two year,DSL,Manual,Individual,0
+SYN-00973,34.0,24.62,1,Two year,DSL,Automatic,Individual,0
+SYN-00974,10.0,83.5,2,Two year,Fiber optic,Manual,Family,0
+SYN-00975,16.0,49.07,2,One year,None,Automatic,Family,0
+SYN-00976,6.0,21.8,1,Month-to-month,DSL,Automatic,Individual,1
+SYN-00977,41.0,110.45,3,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-00978,25.0,56.41,0,Month-to-month,DSL,Automatic,Family,0
+SYN-00979,41.0,73.33,0,One year,DSL,Manual,Family,0
+SYN-00980,43.0,87.92,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-00981,51.0,27.87,0,One year,DSL,Automatic,Individual,0
+SYN-00982,39.0,97.86,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00983,47.0,67.49,0,One year,Fiber optic,Automatic,Individual,0
+SYN-00984,42.0,32.68,1,Month-to-month,DSL,Manual,Small business,1
+SYN-00985,47.0,44.36,0,Month-to-month,DSL,Manual,Small business,1
+SYN-00986,45.0,33.91,0,Month-to-month,DSL,Manual,Family,0
+SYN-00987,23.0,44.25,0,Month-to-month,None,Automatic,Individual,0
+SYN-00988,17.0,97.58,3,Two year,Fiber optic,Automatic,Family,1
+SYN-00989,57.0,91.5,3,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-00990,25.0,46.57,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-00991,40.0,91.9,1,One year,Fiber optic,,Individual,0
+SYN-00992,14.0,48.56,1,Month-to-month,DSL,Automatic,Family,0
+SYN-00993,31.0,63.79,3,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-00994,38.0,117.43,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-00995,45.0,,3,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-00996,38.0,31.46,2,One year,DSL,Manual,Family,0
+SYN-00997,26.0,42.35,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-00998,70.0,56.12,0,Month-to-month,DSL,Automatic,Small business,0
+SYN-00999,37.0,92.46,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01000,59.0,47.99,2,One year,None,Automatic,Individual,0
+SYN-01001,53.0,24.05,0,Month-to-month,DSL,Automatic,Family,0
+SYN-01002,40.0,68.51,3,Two year,Fiber optic,Automatic,Small business,0
+SYN-01003,64.0,65.64,3,Month-to-month,Fiber optic,Manual,Family,1
+SYN-01004,9.0,60.15,3,One year,DSL,Manual,Family,0
+SYN-01005,67.0,18.0,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-01006,62.0,18.39,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01007,36.0,96.68,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01008,53.0,88.8,1,One year,Fiber optic,Manual,Individual,0
+SYN-01009,37.0,72.93,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-01010,19.0,42.41,2,Month-to-month,None,Automatic,Individual,0
+SYN-01011,58.0,81.99,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01012,17.0,32.2,1,Two year,None,Automatic,Individual,0
+SYN-01013,22.0,75.77,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01014,37.0,42.34,1,Month-to-month,None,Automatic,Individual,1
+SYN-01015,61.0,82.97,1,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-01016,28.0,86.62,0,One year,Fiber optic,Automatic,Small business,0
+SYN-01017,36.0,79.06,0,One year,Fiber optic,Automatic,Small business,0
+SYN-01018,3.0,19.81,1,One year,None,Automatic,Individual,0
+SYN-01019,8.0,83.97,1,Two year,Fiber optic,Automatic,Individual,1
+SYN-01020,4.0,74.98,3,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01021,5.0,68.72,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01022,63.0,31.17,2,Month-to-month,None,Automatic,Individual,0
+SYN-01023,61.0,66.03,1,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-01024,59.0,101.55,3,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01025,4.0,56.56,2,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-01026,5.0,22.08,4,Month-to-month,None,Automatic,Small business,0
+SYN-01027,20.0,30.73,0,One year,DSL,Automatic,Individual,0
+SYN-01028,41.0,95.98,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01029,24.0,88.71,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01030,35.0,18.0,2,One year,None,Automatic,Individual,0
+SYN-01031,12.0,52.57,1,One year,None,Manual,Small business,0
+SYN-01032,53.0,92.54,1,One year,Fiber optic,Automatic,Individual,0
+SYN-01033,22.0,74.74,1,Two year,Fiber optic,Automatic,Family,0
+SYN-01034,4.0,18.0,2,One year,DSL,Manual,Individual,0
+SYN-01035,54.0,34.06,2,Month-to-month,None,Manual,Small business,1
+SYN-01036,65.0,64.59,2,Month-to-month,DSL,Automatic,Family,0
+SYN-01037,1.0,110.69,2,One year,Fiber optic,Manual,Family,1
+SYN-01038,31.0,63.68,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01039,60.0,97.78,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01040,51.0,21.04,0,Month-to-month,DSL,Manual,Family,0
+SYN-01041,62.0,30.22,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01042,30.0,29.58,0,Month-to-month,None,Automatic,Small business,0
+SYN-01043,27.0,89.98,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01044,51.0,51.88,2,Two year,DSL,Automatic,Individual,0
+SYN-01045,11.0,102.4,0,Two year,Fiber optic,Automatic,Family,0
+SYN-01046,17.0,18.0,1,Month-to-month,DSL,Manual,Individual,0
+SYN-01047,43.0,61.21,2,Two year,None,Manual,Family,0
+SYN-01048,48.0,41.62,2,Month-to-month,DSL,Manual,Individual,0
+SYN-01049,8.0,18.0,3,Two year,DSL,Automatic,Individual,0
+SYN-01050,37.0,18.0,0,Two year,DSL,Automatic,Individual,0
+SYN-01051,26.0,88.49,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01052,36.0,72.66,2,One year,Fiber optic,Automatic,Small business,0
+SYN-01053,69.0,73.29,1,Two year,Fiber optic,Automatic,Family,0
+SYN-01054,5.0,87.29,2,Two year,Fiber optic,Manual,Family,0
+SYN-01055,72.0,39.73,2,Two year,DSL,Manual,Individual,0
+SYN-01056,32.0,48.92,1,Month-to-month,DSL,Automatic,Family,0
+SYN-01057,56.0,18.0,4,Month-to-month,DSL,Automatic,Individual,0
+SYN-01058,30.0,59.51,1,Two year,None,Manual,Individual,0
+SYN-01059,22.0,63.05,1,One year,DSL,Automatic,Family,1
+SYN-01060,56.0,,0,One year,None,Manual,Family,0
+SYN-01061,50.0,46.16,0,Month-to-month,DSL,Automatic,Family,0
+SYN-01062,10.0,39.67,0,One year,DSL,Automatic,Small business,0
+SYN-01063,51.0,35.31,0,Month-to-month,DSL,Automatic,Family,0
+SYN-01064,54.0,39.19,0,One year,DSL,Manual,Individual,0
+SYN-01065,28.0,57.7,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01066,67.0,74.08,2,One year,Fiber optic,Manual,Individual,0
+SYN-01067,46.0,34.81,1,Two year,DSL,Automatic,Family,0
+SYN-01068,24.0,60.46,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01069,0.0,,3,Month-to-month,Fiber optic,Manual,Small business,1
+SYN-01070,49.0,35.77,2,Month-to-month,None,Automatic,Individual,0
+SYN-01071,15.0,52.7,0,Two year,None,Automatic,Family,0
+SYN-01072,55.0,63.85,1,One year,Fiber optic,Automatic,Family,0
+SYN-01073,38.0,82.24,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-01074,34.0,96.0,3,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01075,11.0,77.52,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01076,51.0,47.0,1,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-01077,12.0,37.69,2,Two year,DSL,Manual,Small business,1
+SYN-01078,30.0,79.77,6,One year,Fiber optic,Manual,Individual,0
+SYN-01079,61.0,51.69,1,Month-to-month,None,Manual,Individual,0
+SYN-01080,67.0,26.48,1,Two year,DSL,Manual,Individual,0
+SYN-01081,72.0,45.85,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01082,69.0,22.04,0,Two year,None,Automatic,Small business,0
+SYN-01083,40.0,20.74,0,Month-to-month,DSL,Manual,Individual,0
+SYN-01084,14.0,84.58,3,One year,Fiber optic,Manual,Individual,0
+SYN-01085,61.0,18.0,0,Two year,None,Manual,Family,0
+SYN-01086,58.0,44.17,1,Month-to-month,None,Automatic,Family,0
+SYN-01087,72.0,53.54,3,One year,DSL,Automatic,Individual,0
+SYN-01088,47.0,35.09,0,Two year,DSL,Automatic,Individual,0
+SYN-01089,10.0,86.65,1,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-01090,36.0,18.0,2,Month-to-month,DSL,Automatic,Individual,1
+SYN-01091,32.0,18.0,0,One year,DSL,Manual,Individual,0
+SYN-01092,61.0,53.68,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01093,28.0,51.32,3,Month-to-month,DSL,Automatic,Family,0
+SYN-01094,23.0,76.34,1,Month-to-month,Fiber optic,Automatic,Small business,1
+SYN-01095,5.0,60.46,2,One year,Fiber optic,Manual,Small business,0
+SYN-01096,60.0,76.31,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01097,55.0,60.1,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01098,3.0,90.43,2,Two year,Fiber optic,Automatic,Small business,0
+SYN-01099,31.0,85.46,0,Month-to-month,DSL,Automatic,Family,0
+SYN-01100,35.0,56.29,2,Two year,DSL,Automatic,Family,0
+SYN-01101,,26.75,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-01102,67.0,18.0,0,Two year,DSL,Manual,Individual,0
+SYN-01103,10.0,28.1,0,One year,DSL,Manual,Family,0
+SYN-01104,22.0,70.21,1,Month-to-month,DSL,Automatic,Family,0
+SYN-01105,13.0,21.62,0,Two year,DSL,Automatic,Individual,1
+SYN-01106,17.0,70.18,0,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01107,66.0,98.52,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01108,68.0,69.27,2,Month-to-month,None,Automatic,Family,0
+SYN-01109,3.0,72.41,2,One year,Fiber optic,Manual,Individual,0
+SYN-01110,46.0,84.74,3,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01111,16.0,50.93,2,Month-to-month,DSL,,Family,1
+SYN-01112,14.0,66.84,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01113,21.0,42.54,0,Month-to-month,DSL,Manual,Family,1
+SYN-01114,14.0,95.35,2,Month-to-month,Fiber optic,Manual,Family,1
+SYN-01115,35.0,92.41,2,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01116,72.0,102.71,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01117,42.0,40.71,0,Month-to-month,DSL,,Small business,0
+SYN-01118,52.0,89.96,1,One year,Fiber optic,Manual,Individual,0
+SYN-01119,36.0,21.07,0,Month-to-month,None,Automatic,Individual,0
+SYN-01120,1.0,81.83,2,One year,Fiber optic,Automatic,Individual,0
+SYN-01121,6.0,65.6,3,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01122,19.0,80.14,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01123,17.0,58.95,0,Month-to-month,DSL,Manual,Family,0
+SYN-01124,61.0,90.65,0,Month-to-month,Fiber optic,,Family,0
+SYN-01125,61.0,106.3,2,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01126,62.0,53.56,1,Two year,DSL,Manual,Small business,0
+SYN-01127,46.0,50.3,0,Month-to-month,DSL,Manual,Individual,0
+SYN-01128,40.0,59.94,0,Month-to-month,None,Automatic,Family,0
+SYN-01129,47.0,97.92,1,One year,Fiber optic,Automatic,Small business,0
+SYN-01130,29.0,71.32,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01131,48.0,107.81,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01132,57.0,77.11,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01133,55.0,67.66,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01134,44.0,42.3,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-01135,4.0,91.03,1,One year,Fiber optic,Manual,Individual,0
+SYN-01136,52.0,60.0,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-01137,26.0,28.34,2,Month-to-month,DSL,Manual,Individual,1
+SYN-01138,54.0,76.27,2,One year,Fiber optic,Automatic,Individual,0
+SYN-01139,39.0,32.58,1,One year,DSL,Automatic,Small business,0
+SYN-01140,64.0,86.1,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01141,,134.67,2,One year,Fiber optic,Manual,Family,0
+SYN-01142,67.0,95.45,0,One year,Fiber optic,,Family,0
+SYN-01143,61.0,65.44,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-01144,24.0,18.15,1,Two year,None,Manual,Individual,0
+SYN-01145,35.0,85.77,2,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01146,38.0,77.78,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01147,56.0,81.08,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01148,50.0,55.88,0,Month-to-month,DSL,Automatic,Family,1
+SYN-01149,62.0,43.98,0,Month-to-month,DSL,Automatic,Family,0
+SYN-01150,27.0,100.8,1,Two year,Fiber optic,Manual,Individual,0
+SYN-01151,36.0,25.44,2,Month-to-month,DSL,Automatic,Individual,1
+SYN-01152,31.0,73.45,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01153,66.0,98.31,4,Two year,Fiber optic,Automatic,Family,0
+SYN-01154,22.0,86.6,0,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01155,42.0,66.61,1,Month-to-month,DSL,Automatic,Family,0
+SYN-01156,8.0,95.57,2,Two year,Fiber optic,Manual,Family,0
+SYN-01157,62.0,103.66,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01158,28.0,66.35,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01159,,61.94,3,Month-to-month,DSL,Manual,Family,1
+SYN-01160,42.0,101.76,0,Two year,Fiber optic,Automatic,Family,1
+SYN-01161,36.0,69.67,1,Month-to-month,DSL,Automatic,Family,0
+SYN-01162,61.0,53.31,4,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01163,38.0,23.21,3,Month-to-month,DSL,Automatic,Small business,0
+SYN-01164,37.0,45.7,1,Month-to-month,None,Automatic,Small business,0
+SYN-01165,7.0,18.0,3,Two year,DSL,Manual,Individual,0
+SYN-01166,1.0,81.4,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01167,29.0,48.78,3,Two year,DSL,Manual,Individual,0
+SYN-01168,72.0,82.51,2,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01169,66.0,84.41,0,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01170,45.0,61.04,1,Two year,Fiber optic,Manual,Individual,0
+SYN-01171,46.0,43.22,2,Month-to-month,DSL,Manual,Family,1
+SYN-01172,28.0,28.6,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01173,12.0,26.12,3,Two year,DSL,Automatic,Individual,0
+SYN-01174,0.0,25.41,3,Month-to-month,None,Automatic,Individual,1
+SYN-01175,24.0,86.48,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01176,,46.32,1,Two year,DSL,Automatic,Family,0
+SYN-01177,13.0,59.36,2,Month-to-month,None,Automatic,Individual,1
+SYN-01178,18.0,29.88,1,Month-to-month,DSL,Manual,Individual,0
+SYN-01179,1.0,79.47,2,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01180,44.0,82.5,2,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01181,67.0,27.34,1,Month-to-month,None,Automatic,Small business,0
+SYN-01182,50.0,67.84,1,One year,Fiber optic,Automatic,Family,0
+SYN-01183,32.0,69.57,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01184,30.0,19.31,1,One year,None,Automatic,Individual,0
+SYN-01185,22.0,52.39,1,Month-to-month,DSL,Automatic,Family,0
+SYN-01186,10.0,48.99,1,Month-to-month,None,Automatic,Individual,0
+SYN-01187,43.0,18.0,1,Month-to-month,None,,Individual,0
+SYN-01188,41.0,27.86,2,One year,None,Manual,Individual,0
+SYN-01189,0.0,18.0,2,Month-to-month,DSL,Manual,Individual,0
+SYN-01190,30.0,31.56,1,Month-to-month,DSL,Automatic,Small business,0
+SYN-01191,20.0,88.99,1,Two year,Fiber optic,Automatic,Small business,0
+SYN-01192,12.0,84.19,2,One year,Fiber optic,Automatic,Family,0
+SYN-01193,51.0,74.38,1,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-01194,38.0,53.92,0,Two year,None,Manual,Small business,0
+SYN-01195,46.0,,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01196,52.0,25.12,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-01197,71.0,92.07,0,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01198,58.0,39.24,1,Month-to-month,DSL,Manual,Family,0
+SYN-01199,45.0,40.47,2,Month-to-month,DSL,Automatic,Individual,1
+SYN-01200,64.0,56.7,0,One year,DSL,Manual,Family,0
+SYN-01201,34.0,72.23,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01202,71.0,77.28,0,One year,Fiber optic,Automatic,Individual,0
+SYN-01203,55.0,73.47,2,Two year,Fiber optic,,Individual,0
+SYN-01204,47.0,97.08,0,One year,Fiber optic,Automatic,Family,0
+SYN-01205,65.0,100.81,1,One year,Fiber optic,Automatic,Family,0
+SYN-01206,37.0,81.21,2,One year,Fiber optic,Manual,Small business,0
+SYN-01207,52.0,46.06,3,Two year,None,Manual,Family,1
+SYN-01208,20.0,102.13,2,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01209,70.0,78.65,3,Month-to-month,Fiber optic,Manual,Family,1
+SYN-01210,45.0,72.83,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-01211,57.0,48.46,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01212,33.0,34.09,1,Month-to-month,None,Manual,Individual,0
+SYN-01213,,79.32,1,One year,Fiber optic,Manual,Family,0
+SYN-01214,,95.17,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01215,8.0,24.37,0,Two year,DSL,Automatic,Family,0
+SYN-01216,37.0,66.59,2,Month-to-month,Fiber optic,Manual,Small business,1
+SYN-01217,53.0,96.11,0,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01218,59.0,61.61,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01219,32.0,80.32,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01220,47.0,27.76,1,Month-to-month,DSL,Manual,Individual,0
+SYN-01221,40.0,34.57,0,Month-to-month,None,Automatic,Individual,0
+SYN-01222,70.0,42.74,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-01223,47.0,47.39,2,Month-to-month,None,Manual,Individual,0
+SYN-01224,30.0,36.2,0,Month-to-month,DSL,Manual,Individual,0
+SYN-01225,70.0,64.42,3,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-01226,7.0,84.05,2,Month-to-month,Fiber optic,Manual,Family,1
+SYN-01227,71.0,98.28,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01228,11.0,21.72,0,Month-to-month,DSL,Manual,Individual,0
+SYN-01229,21.0,,2,Month-to-month,None,Automatic,Individual,0
+SYN-01230,59.0,69.98,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01231,53.0,,2,One year,Fiber optic,Manual,Individual,0
+SYN-01232,70.0,61.88,1,Two year,Fiber optic,Manual,Individual,0
+SYN-01233,54.0,18.0,2,Two year,DSL,Manual,Individual,0
+SYN-01234,46.0,81.77,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01235,25.0,47.53,2,Month-to-month,DSL,Manual,Small business,1
+SYN-01236,0.0,26.7,2,Month-to-month,DSL,Manual,Family,0
+SYN-01237,9.0,94.8,0,One year,Fiber optic,Manual,Family,0
+SYN-01238,21.0,89.08,0,One year,Fiber optic,Manual,Individual,0
+SYN-01239,2.0,42.75,1,Two year,DSL,Automatic,Individual,1
+SYN-01240,37.0,29.58,0,Two year,DSL,Manual,Small business,0
+SYN-01241,56.0,22.73,1,Month-to-month,DSL,Manual,Individual,0
+SYN-01242,70.0,51.05,1,One year,DSL,Manual,Family,0
+SYN-01243,35.0,78.22,1,One year,Fiber optic,Manual,Small business,1
+SYN-01244,63.0,51.25,1,Month-to-month,DSL,Manual,Family,0
+SYN-01245,71.0,32.66,2,Two year,None,Automatic,Individual,0
+SYN-01246,62.0,35.93,2,Month-to-month,DSL,Automatic,Family,1
+SYN-01247,33.0,40.49,1,Two year,DSL,Manual,Individual,0
+SYN-01248,23.0,41.12,3,One year,None,Manual,Individual,0
+SYN-01249,71.0,37.61,1,Month-to-month,DSL,Manual,Individual,0
+SYN-01250,17.0,76.44,1,One year,Fiber optic,Automatic,Small business,1
+SYN-01251,30.0,71.83,0,Month-to-month,None,Automatic,Family,0
+SYN-01252,5.0,26.88,2,One year,None,Manual,Individual,0
+SYN-01253,57.0,91.66,3,One year,Fiber optic,Manual,Individual,0
+SYN-01254,47.0,40.46,0,One year,DSL,Automatic,Family,0
+SYN-01255,6.0,89.42,0,Two year,Fiber optic,Manual,Small business,0
+SYN-01256,16.0,51.03,1,Month-to-month,None,Automatic,Individual,0
+SYN-01257,40.0,31.19,3,Month-to-month,None,Automatic,Individual,0
+SYN-01258,39.0,56.59,2,Month-to-month,DSL,Automatic,Small business,1
+SYN-01259,58.0,81.1,0,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01260,19.0,23.6,0,Month-to-month,DSL,Automatic,Small business,0
+SYN-01261,67.0,30.14,3,Month-to-month,DSL,Manual,Individual,0
+SYN-01262,32.0,89.73,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01263,60.0,47.0,1,Month-to-month,DSL,Manual,Individual,1
+SYN-01264,17.0,21.25,4,Two year,DSL,Automatic,Individual,0
+SYN-01265,2.0,33.19,1,Month-to-month,DSL,Automatic,Small business,0
+SYN-01266,4.0,77.65,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-01267,27.0,43.4,0,Month-to-month,DSL,Manual,Family,0
+SYN-01268,69.0,105.65,0,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01269,3.0,38.04,0,Month-to-month,DSL,Manual,Small business,0
+SYN-01270,26.0,49.2,0,Month-to-month,None,Manual,Family,0
+SYN-01271,7.0,50.48,1,Month-to-month,DSL,Manual,Small business,1
+SYN-01272,68.0,70.25,3,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01273,49.0,48.1,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01274,55.0,18.0,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-01275,52.0,29.1,1,One year,DSL,Automatic,Small business,0
+SYN-01276,47.0,48.64,1,Month-to-month,DSL,Manual,Small business,0
+SYN-01277,56.0,55.41,3,Two year,DSL,Automatic,Individual,0
+SYN-01278,0.0,64.95,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01279,63.0,63.43,2,Two year,Fiber optic,Automatic,Individual,0
+SYN-01280,54.0,42.38,0,One year,DSL,Manual,Individual,0
+SYN-01281,53.0,81.9,2,Two year,Fiber optic,Manual,Family,0
+SYN-01282,28.0,71.51,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-01283,58.0,61.39,0,Month-to-month,DSL,Manual,Family,0
+SYN-01284,27.0,82.93,2,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01285,3.0,18.0,1,Month-to-month,DSL,Manual,Individual,0
+SYN-01286,66.0,18.09,0,Two year,DSL,Manual,Individual,0
+SYN-01287,17.0,75.13,1,One year,Fiber optic,Manual,Small business,0
+SYN-01288,7.0,25.78,0,Month-to-month,None,Manual,Family,1
+SYN-01289,45.0,31.14,2,Two year,None,Automatic,Individual,0
+SYN-01290,17.0,18.0,1,Month-to-month,None,Manual,Individual,0
+SYN-01291,62.0,96.32,1,One year,Fiber optic,Manual,Small business,0
+SYN-01292,32.0,78.15,0,One year,DSL,Automatic,Family,0
+SYN-01293,0.0,36.24,1,Month-to-month,DSL,Automatic,Family,0
+SYN-01294,69.0,53.34,3,One year,DSL,Manual,Family,0
+SYN-01295,37.0,22.51,0,Two year,DSL,Manual,Small business,0
+SYN-01296,19.0,30.98,3,Month-to-month,DSL,Automatic,Individual,0
+SYN-01297,49.0,113.45,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01298,38.0,28.93,2,Month-to-month,DSL,Manual,Individual,0
+SYN-01299,2.0,46.28,2,One year,DSL,Automatic,Family,0
+SYN-01300,55.0,62.75,0,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01301,29.0,89.9,3,Two year,Fiber optic,Manual,Small business,0
+SYN-01302,51.0,18.0,3,Two year,None,Manual,Family,0
+SYN-01303,65.0,44.24,0,Month-to-month,DSL,Automatic,Family,0
+SYN-01304,44.0,74.4,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01305,49.0,26.41,1,One year,DSL,Manual,Small business,1
+SYN-01306,18.0,101.23,0,One year,Fiber optic,Manual,Family,0
+SYN-01307,17.0,50.63,3,Month-to-month,DSL,Manual,Individual,0
+SYN-01308,30.0,18.0,3,Month-to-month,DSL,Automatic,Individual,0
+SYN-01309,62.0,102.22,0,Month-to-month,Fiber optic,Manual,Small business,1
+SYN-01310,38.0,31.5,1,Two year,DSL,Automatic,Family,0
+SYN-01311,25.0,66.75,1,Month-to-month,DSL,Automatic,Family,0
+SYN-01312,56.0,51.95,0,Two year,None,Manual,Family,0
+SYN-01313,62.0,28.45,2,Month-to-month,DSL,Manual,Individual,0
+SYN-01314,65.0,69.68,3,Two year,Fiber optic,Automatic,Individual,0
+SYN-01315,21.0,89.56,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01316,51.0,37.71,1,Month-to-month,DSL,Automatic,Individual,1
+SYN-01317,43.0,78.04,2,Two year,Fiber optic,Automatic,Family,0
+SYN-01318,32.0,46.96,2,Two year,DSL,Automatic,Family,0
+SYN-01319,28.0,79.98,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01320,8.0,19.2,1,Month-to-month,DSL,Manual,Individual,0
+SYN-01321,,39.37,2,Month-to-month,DSL,Manual,Family,0
+SYN-01322,40.0,20.05,0,Month-to-month,DSL,Manual,Individual,0
+SYN-01323,64.0,29.54,2,Month-to-month,None,Automatic,Individual,0
+SYN-01324,,80.62,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-01325,13.0,36.57,3,Month-to-month,None,Automatic,Individual,0
+SYN-01326,49.0,100.67,3,One year,Fiber optic,Manual,Small business,0
+SYN-01327,6.0,46.26,2,Month-to-month,Fiber optic,Automatic,Small business,1
+SYN-01328,49.0,81.1,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01329,24.0,50.08,1,One year,None,,Family,1
+SYN-01330,32.0,100.6,3,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01331,52.0,99.31,0,One year,Fiber optic,Automatic,Family,0
+SYN-01332,31.0,72.86,2,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01333,58.0,92.24,1,Two year,Fiber optic,Manual,Family,0
+SYN-01334,38.0,25.33,0,One year,DSL,Automatic,Individual,0
+SYN-01335,72.0,82.98,2,Two year,Fiber optic,Automatic,Individual,0
+SYN-01336,46.0,25.57,2,Month-to-month,DSL,Manual,Family,1
+SYN-01337,21.0,45.1,1,Month-to-month,None,Automatic,Small business,0
+SYN-01338,56.0,89.7,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01339,29.0,68.67,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01340,38.0,71.98,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01341,9.0,72.93,2,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01342,8.0,51.86,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01343,41.0,92.04,2,Month-to-month,None,Automatic,Family,1
+SYN-01344,13.0,105.86,2,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01345,72.0,27.65,2,Month-to-month,DSL,Manual,Individual,0
+SYN-01346,62.0,43.19,2,Month-to-month,DSL,Manual,Individual,1
+SYN-01347,51.0,43.75,0,One year,DSL,Automatic,Individual,0
+SYN-01348,53.0,62.97,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01349,43.0,73.61,2,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01350,4.0,49.18,0,Month-to-month,None,Manual,Family,0
+SYN-01351,28.0,85.5,2,One year,Fiber optic,Manual,Individual,0
+SYN-01352,36.0,,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01353,66.0,65.63,0,One year,Fiber optic,Automatic,Individual,0
+SYN-01354,16.0,82.44,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-01355,36.0,50.54,1,Month-to-month,None,Manual,Family,0
+SYN-01356,25.0,68.41,0,Two year,DSL,Automatic,Family,0
+SYN-01357,9.0,31.65,1,One year,None,Automatic,Family,0
+SYN-01358,7.0,105.58,1,Month-to-month,Fiber optic,,Individual,0
+SYN-01359,26.0,70.01,0,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01360,6.0,18.0,0,One year,None,Manual,Individual,0
+SYN-01361,4.0,74.23,3,Two year,Fiber optic,Automatic,Small business,0
+SYN-01362,25.0,35.25,3,Month-to-month,DSL,Manual,Family,1
+SYN-01363,14.0,74.5,4,Month-to-month,Fiber optic,Manual,Small business,1
+SYN-01364,40.0,34.04,1,One year,DSL,Manual,Individual,0
+SYN-01365,1.0,72.45,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01366,22.0,39.05,1,One year,DSL,Manual,Family,0
+SYN-01367,33.0,80.62,1,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-01368,70.0,45.87,0,One year,None,Automatic,Family,0
+SYN-01369,46.0,64.35,0,Two year,DSL,Automatic,Family,0
+SYN-01370,64.0,72.66,1,One year,Fiber optic,Manual,Small business,0
+SYN-01371,25.0,62.46,1,One year,Fiber optic,Automatic,Individual,0
+SYN-01372,32.0,53.06,3,One year,Fiber optic,Automatic,Small business,0
+SYN-01373,30.0,,0,Two year,DSL,Automatic,Individual,0
+SYN-01374,64.0,18.5,2,Two year,DSL,Automatic,Individual,0
+SYN-01375,70.0,72.45,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01376,70.0,81.86,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01377,54.0,51.89,0,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01378,36.0,53.36,3,Two year,DSL,Manual,Small business,0
+SYN-01379,39.0,77.08,2,One year,Fiber optic,Automatic,Small business,0
+SYN-01380,71.0,74.43,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01381,20.0,36.55,2,Month-to-month,DSL,Automatic,Family,1
+SYN-01382,25.0,84.94,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01383,65.0,34.96,2,One year,DSL,Manual,Small business,0
+SYN-01384,28.0,66.08,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01385,17.0,52.6,1,Month-to-month,None,Automatic,Family,0
+SYN-01386,40.0,68.12,0,Two year,Fiber optic,Automatic,Family,0
+SYN-01387,23.0,68.74,0,One year,Fiber optic,Automatic,Family,0
+SYN-01388,65.0,20.44,2,Month-to-month,DSL,Manual,Individual,0
+SYN-01389,66.0,39.54,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-01390,22.0,34.96,2,Two year,DSL,Manual,Individual,1
+SYN-01391,38.0,88.64,2,One year,Fiber optic,Automatic,Individual,0
+SYN-01392,71.0,63.04,1,One year,Fiber optic,Automatic,Individual,0
+SYN-01393,,42.47,1,Month-to-month,DSL,Manual,Individual,0
+SYN-01394,15.0,33.52,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-01395,43.0,37.74,0,Month-to-month,DSL,Manual,Family,0
+SYN-01396,45.0,80.01,0,One year,Fiber optic,Automatic,Individual,0
+SYN-01397,47.0,89.14,3,Month-to-month,Fiber optic,Manual,Family,1
+SYN-01398,1.0,66.82,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01399,21.0,50.55,1,One year,None,Automatic,Family,0
+SYN-01400,62.0,33.32,2,Two year,DSL,Manual,Individual,0
+SYN-01401,17.0,88.0,2,One year,Fiber optic,Automatic,Family,0
+SYN-01402,21.0,84.64,0,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01403,23.0,33.04,2,Month-to-month,DSL,Manual,Family,0
+SYN-01404,12.0,35.97,1,Month-to-month,None,Automatic,Individual,0
+SYN-01405,11.0,39.56,1,Month-to-month,DSL,Manual,Family,1
+SYN-01406,25.0,61.74,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01407,63.0,71.87,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01408,0.0,44.54,1,One year,None,Automatic,Individual,1
+SYN-01409,20.0,92.41,0,Two year,Fiber optic,Automatic,Family,0
+SYN-01410,4.0,28.1,2,Two year,DSL,Manual,Individual,0
+SYN-01411,40.0,82.57,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01412,18.0,83.27,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01413,57.0,43.84,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01414,42.0,85.37,3,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01415,57.0,18.0,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-01416,46.0,71.6,0,Month-to-month,Fiber optic,Manual,Family,1
+SYN-01417,32.0,43.31,0,One year,None,Manual,Family,0
+SYN-01418,62.0,78.21,1,Month-to-month,DSL,Manual,Family,0
+SYN-01419,34.0,96.81,1,Two year,Fiber optic,Automatic,Individual,1
+SYN-01420,69.0,44.18,0,Month-to-month,None,Automatic,Individual,0
+SYN-01421,72.0,79.64,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01422,42.0,18.0,0,Month-to-month,None,Manual,Individual,0
+SYN-01423,49.0,77.04,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01424,18.0,27.86,2,Month-to-month,None,Automatic,Small business,0
+SYN-01425,59.0,24.38,0,Two year,DSL,Automatic,Individual,0
+SYN-01426,49.0,77.01,1,Month-to-month,Fiber optic,Manual,Individual,1
+SYN-01427,65.0,68.88,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01428,19.0,101.3,3,One year,Fiber optic,Manual,Family,1
+SYN-01429,57.0,18.0,0,Month-to-month,None,Automatic,Individual,0
+SYN-01430,34.0,90.98,1,One year,Fiber optic,Manual,Family,1
+SYN-01431,13.0,63.57,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01432,12.0,69.67,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-01433,41.0,78.96,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01434,23.0,75.47,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01435,7.0,37.14,1,One year,DSL,Automatic,Individual,0
+SYN-01436,31.0,87.24,1,Two year,Fiber optic,Automatic,Family,0
+SYN-01437,47.0,26.41,3,Month-to-month,None,Automatic,Individual,1
+SYN-01438,23.0,68.88,2,One year,Fiber optic,Manual,Individual,0
+SYN-01439,69.0,72.99,1,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01440,56.0,80.02,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01441,37.0,75.09,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01442,68.0,46.38,2,One year,DSL,Automatic,Family,0
+SYN-01443,31.0,67.05,1,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-01444,10.0,110.67,1,One year,Fiber optic,Automatic,Family,0
+SYN-01445,2.0,55.4,3,Month-to-month,DSL,Automatic,Family,0
+SYN-01446,68.0,45.02,2,Two year,DSL,Automatic,Family,0
+SYN-01447,70.0,91.9,0,Two year,Fiber optic,Manual,Family,0
+SYN-01448,53.0,,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01449,7.0,84.32,2,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01450,21.0,30.84,2,Month-to-month,DSL,Automatic,Small business,0
+SYN-01451,2.0,58.79,3,Two year,Fiber optic,Automatic,Individual,0
+SYN-01452,3.0,80.04,0,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01453,17.0,83.43,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01454,41.0,70.38,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01455,4.0,27.61,0,One year,DSL,,Small business,0
+SYN-01456,,73.47,2,Month-to-month,None,Automatic,Individual,1
+SYN-01457,33.0,26.39,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-01458,19.0,48.11,0,Two year,Fiber optic,Manual,Individual,0
+SYN-01459,37.0,29.2,1,Month-to-month,DSL,Automatic,Family,0
+SYN-01460,57.0,84.87,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-01461,22.0,52.37,1,Month-to-month,DSL,Automatic,Small business,0
+SYN-01462,3.0,26.14,1,Month-to-month,None,Automatic,Individual,0
+SYN-01463,3.0,91.63,2,Two year,Fiber optic,Automatic,Individual,0
+SYN-01464,62.0,99.64,2,One year,Fiber optic,Manual,Family,0
+SYN-01465,8.0,32.54,0,One year,DSL,Automatic,Individual,1
+SYN-01466,46.0,46.61,1,Month-to-month,DSL,Manual,Family,0
+SYN-01467,28.0,77.35,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01468,56.0,86.41,2,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-01469,4.0,95.16,2,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01470,65.0,26.2,4,Month-to-month,None,Automatic,Individual,1
+SYN-01471,50.0,72.74,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01472,32.0,60.76,0,Month-to-month,None,Automatic,Individual,0
+SYN-01473,15.0,38.27,1,Month-to-month,DSL,Manual,Small business,0
+SYN-01474,,101.3,6,Month-to-month,Fiber optic,Manual,Family,1
+SYN-01475,22.0,82.02,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01476,35.0,78.55,0,Two year,Fiber optic,Manual,Individual,1
+SYN-01477,28.0,36.41,0,One year,None,Automatic,Small business,0
+SYN-01478,16.0,86.67,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01479,30.0,59.34,2,One year,None,Manual,Family,0
+SYN-01480,11.0,93.43,4,Two year,Fiber optic,Automatic,Family,0
+SYN-01481,0.0,25.98,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01482,21.0,95.01,0,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01483,8.0,74.13,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01484,30.0,30.99,1,Month-to-month,None,Manual,Individual,0
+SYN-01485,62.0,109.82,1,One year,Fiber optic,Automatic,Small business,0
+SYN-01486,11.0,29.99,1,Two year,DSL,Automatic,Family,0
+SYN-01487,0.0,62.46,1,Month-to-month,DSL,Automatic,Family,0
+SYN-01488,8.0,38.79,0,One year,DSL,Manual,Family,0
+SYN-01489,37.0,76.71,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01490,20.0,83.39,0,One year,DSL,Automatic,Family,0
+SYN-01491,35.0,77.49,4,One year,Fiber optic,Manual,Family,1
+SYN-01492,2.0,65.59,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01493,24.0,74.77,0,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01494,29.0,38.99,1,One year,DSL,Automatic,Family,1
+SYN-01495,31.0,101.49,1,Two year,Fiber optic,Automatic,Family,1
+SYN-01496,40.0,28.05,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01497,56.0,43.5,1,Month-to-month,None,Manual,Small business,1
+SYN-01498,34.0,18.0,2,Month-to-month,DSL,Manual,Individual,0
+SYN-01499,61.0,18.0,0,Month-to-month,DSL,Manual,Individual,0
+SYN-01500,38.0,32.02,0,One year,DSL,Automatic,Individual,0
+SYN-01501,19.0,69.61,0,One year,Fiber optic,Automatic,Family,0
+SYN-01502,16.0,54.74,0,One year,DSL,Automatic,Individual,0
+SYN-01503,23.0,70.11,0,Two year,Fiber optic,Automatic,Family,1
+SYN-01504,43.0,61.51,4,One year,Fiber optic,Automatic,Individual,0
+SYN-01505,17.0,95.38,5,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01506,66.0,42.38,0,Month-to-month,DSL,Manual,Family,0
+SYN-01507,35.0,18.0,0,Month-to-month,DSL,Manual,Individual,0
+SYN-01508,63.0,101.52,1,Month-to-month,Fiber optic,Manual,Small business,1
+SYN-01509,49.0,21.98,0,Two year,DSL,Manual,Individual,0
+SYN-01510,24.0,72.45,0,One year,Fiber optic,Manual,Individual,0
+SYN-01511,16.0,87.28,2,Two year,Fiber optic,Manual,Family,0
+SYN-01512,54.0,99.23,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01513,24.0,41.01,1,Month-to-month,DSL,Manual,Individual,0
+SYN-01514,18.0,79.25,2,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01515,67.0,30.76,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01516,35.0,87.05,3,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01517,3.0,59.74,3,Month-to-month,DSL,Manual,Family,0
+SYN-01518,36.0,19.81,1,Month-to-month,None,Manual,Small business,0
+SYN-01519,33.0,101.24,0,Two year,Fiber optic,Manual,Individual,0
+SYN-01520,63.0,40.13,2,Month-to-month,DSL,Manual,Family,1
+SYN-01521,51.0,49.89,5,Month-to-month,DSL,Manual,Family,0
+SYN-01522,13.0,19.92,0,One year,DSL,Automatic,Individual,0
+SYN-01523,10.0,18.12,0,Month-to-month,DSL,Manual,Individual,1
+SYN-01524,44.0,23.63,1,Two year,DSL,Manual,Small business,0
+SYN-01525,3.0,22.38,1,One year,None,Manual,Individual,1
+SYN-01526,23.0,84.61,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01527,10.0,22.27,0,One year,DSL,Automatic,Individual,0
+SYN-01528,1.0,99.04,1,One year,Fiber optic,Manual,Family,0
+SYN-01529,67.0,24.82,1,One year,DSL,Automatic,Individual,0
+SYN-01530,6.0,23.38,1,Two year,None,Automatic,Small business,0
+SYN-01531,0.0,44.89,1,One year,DSL,Automatic,Family,0
+SYN-01532,68.0,87.91,0,One year,Fiber optic,Automatic,Individual,0
+SYN-01533,13.0,92.79,1,Month-to-month,Fiber optic,,Family,0
+SYN-01534,59.0,48.7,1,One year,DSL,Manual,Family,0
+SYN-01535,2.0,18.0,0,Two year,DSL,Manual,Individual,1
+SYN-01536,11.0,60.14,1,One year,Fiber optic,Manual,Individual,0
+SYN-01537,8.0,33.38,1,One year,None,,Family,0
+SYN-01538,51.0,106.99,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01539,45.0,81.9,3,One year,Fiber optic,Automatic,Individual,0
+SYN-01540,34.0,63.8,2,Two year,Fiber optic,Automatic,Small business,1
+SYN-01541,17.0,67.66,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01542,6.0,64.27,3,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01543,41.0,78.48,3,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01544,16.0,80.98,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01545,43.0,31.26,0,One year,DSL,Automatic,Individual,0
+SYN-01546,50.0,77.06,1,Month-to-month,None,Automatic,Family,0
+SYN-01547,62.0,51.25,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-01548,36.0,52.02,2,One year,DSL,Automatic,Individual,0
+SYN-01549,0.0,98.73,1,One year,Fiber optic,Automatic,Family,0
+SYN-01550,20.0,44.51,1,One year,DSL,Automatic,Family,0
+SYN-01551,62.0,,1,One year,DSL,Automatic,Family,0
+SYN-01552,38.0,45.47,0,One year,DSL,Manual,Family,0
+SYN-01553,45.0,111.19,1,One year,Fiber optic,Automatic,Family,0
+SYN-01554,33.0,40.26,2,One year,None,Automatic,Individual,0
+SYN-01555,11.0,53.41,0,Month-to-month,DSL,Automatic,Family,0
+SYN-01556,65.0,36.65,2,One year,DSL,Automatic,Individual,0
+SYN-01557,56.0,97.62,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01558,72.0,31.36,0,Month-to-month,None,,Family,0
+SYN-01559,62.0,73.9,1,Month-to-month,DSL,Manual,Family,0
+SYN-01560,,47.58,0,Two year,None,Manual,Family,0
+SYN-01561,18.0,18.0,2,One year,None,Automatic,Individual,0
+SYN-01562,18.0,25.22,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-01563,67.0,68.54,1,One year,Fiber optic,Automatic,Family,0
+SYN-01564,40.0,98.5,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01565,33.0,61.5,2,One year,Fiber optic,Manual,Individual,0
+SYN-01566,70.0,77.19,0,Two year,Fiber optic,Automatic,Individual,0
+SYN-01567,44.0,89.74,0,One year,Fiber optic,Automatic,Individual,0
+SYN-01568,,81.26,2,One year,Fiber optic,Automatic,Family,0
+SYN-01569,71.0,86.51,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01570,5.0,18.06,2,Month-to-month,None,Manual,Individual,0
+SYN-01571,26.0,69.95,2,Two year,Fiber optic,Automatic,Individual,0
+SYN-01572,53.0,108.46,1,One year,Fiber optic,Automatic,Individual,0
+SYN-01573,59.0,45.11,0,Month-to-month,None,Automatic,Individual,0
+SYN-01574,10.0,46.56,1,Month-to-month,DSL,Manual,Family,0
+SYN-01575,23.0,27.05,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-01576,40.0,89.45,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01577,58.0,51.69,0,Month-to-month,None,Automatic,Family,0
+SYN-01578,8.0,29.55,1,Month-to-month,DSL,Automatic,Small business,0
+SYN-01579,43.0,81.89,1,Two year,Fiber optic,Manual,Small business,0
+SYN-01580,21.0,22.61,2,Month-to-month,DSL,Automatic,Individual,1
+SYN-01581,15.0,62.54,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01582,37.0,79.81,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01583,30.0,34.81,1,Month-to-month,DSL,Automatic,Family,0
+SYN-01584,46.0,44.48,3,Two year,None,Automatic,Individual,0
+SYN-01585,23.0,34.81,0,Month-to-month,DSL,Manual,Individual,0
+SYN-01586,60.0,18.0,0,One year,None,Automatic,Individual,0
+SYN-01587,5.0,36.42,1,One year,DSL,Automatic,Individual,0
+SYN-01588,62.0,28.09,3,Month-to-month,None,Automatic,Family,0
+SYN-01589,,99.01,0,One year,Fiber optic,Manual,Family,0
+SYN-01590,53.0,46.77,2,Two year,DSL,Automatic,Family,0
+SYN-01591,25.0,59.06,2,Month-to-month,DSL,Automatic,Small business,0
+SYN-01592,27.0,48.93,1,Month-to-month,DSL,Manual,Individual,0
+SYN-01593,1.0,61.21,1,Two year,Fiber optic,Manual,Individual,0
+SYN-01594,51.0,48.73,0,Two year,Fiber optic,Manual,Individual,0
+SYN-01595,,80.18,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01596,48.0,74.12,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01597,52.0,98.73,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01598,61.0,74.87,0,Two year,Fiber optic,Manual,Small business,0
+SYN-01599,51.0,87.13,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01600,22.0,71.29,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01601,53.0,87.66,4,One year,Fiber optic,Automatic,Family,0
+SYN-01602,60.0,34.58,0,Two year,None,Manual,Small business,0
+SYN-01603,23.0,104.39,2,Two year,Fiber optic,Manual,Family,0
+SYN-01604,9.0,39.05,2,Month-to-month,DSL,Automatic,Small business,0
+SYN-01605,64.0,21.25,2,Month-to-month,DSL,Manual,Individual,0
+SYN-01606,10.0,111.09,0,Two year,Fiber optic,Manual,Family,0
+SYN-01607,43.0,46.19,4,Two year,DSL,Automatic,Family,0
+SYN-01608,17.0,44.08,2,Month-to-month,None,,Family,1
+SYN-01609,9.0,38.22,1,One year,Fiber optic,Manual,Individual,0
+SYN-01610,56.0,83.25,2,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01611,10.0,76.31,3,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01612,48.0,36.3,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01613,50.0,69.76,2,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-01614,4.0,27.52,2,Month-to-month,DSL,Automatic,Small business,0
+SYN-01615,12.0,70.2,2,Two year,Fiber optic,Manual,Small business,0
+SYN-01616,57.0,41.02,1,Month-to-month,None,Automatic,Small business,0
+SYN-01617,37.0,83.31,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01618,8.0,32.0,0,Month-to-month,None,Manual,Small business,0
+SYN-01619,72.0,87.34,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01620,19.0,88.97,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01621,0.0,68.45,3,One year,Fiber optic,Automatic,Individual,1
+SYN-01622,67.0,92.58,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01623,1.0,32.33,0,One year,DSL,Automatic,Family,0
+SYN-01624,40.0,53.03,1,Two year,DSL,Automatic,Family,1
+SYN-01625,72.0,54.95,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01626,42.0,21.64,2,Two year,DSL,Automatic,Individual,0
+SYN-01627,42.0,48.76,2,Two year,Fiber optic,Automatic,Individual,0
+SYN-01628,28.0,32.72,2,Two year,None,Automatic,Individual,0
+SYN-01629,9.0,70.93,2,One year,None,Automatic,Family,0
+SYN-01630,41.0,33.48,1,One year,DSL,Automatic,Individual,0
+SYN-01631,65.0,58.37,0,One year,None,Manual,Family,1
+SYN-01632,6.0,65.58,0,One year,DSL,Manual,Individual,0
+SYN-01633,64.0,80.25,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01634,30.0,40.05,0,Two year,None,Automatic,Family,0
+SYN-01635,39.0,26.84,2,One year,DSL,Automatic,Individual,0
+SYN-01636,12.0,35.01,0,One year,DSL,Manual,Individual,0
+SYN-01637,45.0,,3,Month-to-month,DSL,Automatic,Individual,0
+SYN-01638,13.0,67.74,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01639,19.0,102.81,0,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01640,52.0,48.34,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01641,3.0,18.0,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-01642,32.0,79.36,3,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01643,43.0,43.97,3,Month-to-month,DSL,Manual,Family,1
+SYN-01644,9.0,97.79,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01645,21.0,49.86,3,Month-to-month,None,Manual,Individual,0
+SYN-01646,25.0,110.13,2,Two year,Fiber optic,Manual,Small business,0
+SYN-01647,48.0,28.95,0,Month-to-month,None,Automatic,Individual,0
+SYN-01648,71.0,69.6,2,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01649,61.0,82.65,1,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-01650,13.0,41.13,0,Month-to-month,DSL,Manual,Family,1
+SYN-01651,1.0,48.17,0,Month-to-month,DSL,Manual,Family,0
+SYN-01652,3.0,69.6,0,One year,Fiber optic,Automatic,Small business,0
+SYN-01653,43.0,18.0,0,Two year,DSL,Automatic,Individual,1
+SYN-01654,11.0,51.6,1,Month-to-month,None,Automatic,Family,0
+SYN-01655,16.0,,0,One year,Fiber optic,Automatic,Family,0
+SYN-01656,61.0,51.53,1,Month-to-month,None,Automatic,Individual,0
+SYN-01657,63.0,35.07,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01658,61.0,58.69,0,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01659,18.0,71.64,1,Month-to-month,Fiber optic,Manual,Small business,1
+SYN-01660,45.0,18.0,0,One year,DSL,Manual,Individual,1
+SYN-01661,44.0,59.26,0,One year,Fiber optic,Automatic,Individual,0
+SYN-01662,13.0,98.26,1,One year,Fiber optic,Automatic,Family,0
+SYN-01663,40.0,46.78,1,Month-to-month,None,Automatic,Family,0
+SYN-01664,38.0,86.99,0,One year,Fiber optic,Manual,Individual,1
+SYN-01665,28.0,24.43,1,Month-to-month,DSL,Manual,Family,1
+SYN-01666,54.0,86.85,0,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01667,49.0,83.82,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01668,38.0,47.43,1,One year,DSL,Automatic,Individual,0
+SYN-01669,52.0,83.75,2,Two year,Fiber optic,Manual,Individual,0
+SYN-01670,55.0,58.35,0,Month-to-month,DSL,,Family,0
+SYN-01671,41.0,55.04,2,Month-to-month,DSL,Automatic,Individual,1
+SYN-01672,,85.21,1,One year,Fiber optic,Automatic,Family,0
+SYN-01673,55.0,52.36,1,Two year,DSL,Automatic,Individual,0
+SYN-01674,,76.43,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01675,71.0,20.95,1,One year,DSL,Manual,Small business,0
+SYN-01676,10.0,99.79,4,One year,Fiber optic,Manual,Family,0
+SYN-01677,,18.0,1,Two year,DSL,Automatic,Small business,0
+SYN-01678,67.0,,2,Month-to-month,None,Automatic,Small business,0
+SYN-01679,37.0,36.32,3,Two year,DSL,Automatic,Individual,0
+SYN-01680,68.0,88.93,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01681,0.0,34.23,3,Two year,DSL,Automatic,Small business,1
+SYN-01682,2.0,35.73,2,Month-to-month,DSL,Manual,Small business,0
+SYN-01683,58.0,81.62,3,Month-to-month,Fiber optic,Manual,Small business,1
+SYN-01684,26.0,41.39,2,Month-to-month,None,Automatic,Family,1
+SYN-01685,37.0,25.82,1,Month-to-month,None,Manual,Individual,0
+SYN-01686,31.0,41.17,1,Month-to-month,DSL,Manual,Small business,1
+SYN-01687,29.0,34.62,2,Month-to-month,DSL,Automatic,Small business,0
+SYN-01688,68.0,84.7,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-01689,6.0,,1,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-01690,56.0,70.73,1,One year,DSL,Manual,Family,0
+SYN-01691,64.0,,2,Two year,Fiber optic,Automatic,Small business,0
+SYN-01692,47.0,68.86,1,One year,Fiber optic,Automatic,Individual,0
+SYN-01693,28.0,52.8,2,Month-to-month,Fiber optic,Automatic,Small business,1
+SYN-01694,11.0,74.45,2,Month-to-month,Fiber optic,,Individual,0
+SYN-01695,49.0,83.54,2,Two year,Fiber optic,Automatic,Individual,0
+SYN-01696,34.0,45.87,1,Month-to-month,DSL,Manual,Individual,0
+SYN-01697,,91.41,2,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01698,26.0,47.43,3,Two year,DSL,Automatic,Individual,0
+SYN-01699,70.0,84.51,0,Two year,Fiber optic,Manual,Small business,0
+SYN-01700,19.0,104.47,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01701,13.0,87.8,0,One year,Fiber optic,Automatic,Small business,1
+SYN-01702,,55.41,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01703,14.0,32.79,1,One year,DSL,Automatic,Individual,0
+SYN-01704,67.0,72.75,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01705,62.0,98.63,1,Month-to-month,Fiber optic,Manual,Family,0
+SYN-01706,71.0,60.15,1,One year,None,Automatic,Family,0
+SYN-01707,66.0,110.41,2,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01708,17.0,66.66,0,One year,None,Automatic,Family,0
+SYN-01709,15.0,75.29,1,Month-to-month,DSL,Manual,Family,0
+SYN-01710,,83.06,1,Two year,Fiber optic,Automatic,Small business,0
+SYN-01711,34.0,52.97,3,Two year,DSL,Manual,Family,0
+SYN-01712,64.0,72.0,3,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01713,53.0,39.01,3,One year,DSL,Automatic,Individual,0
+SYN-01714,47.0,27.82,1,Month-to-month,DSL,Automatic,Individual,0
+SYN-01715,,77.75,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01716,47.0,90.71,1,Month-to-month,Fiber optic,Automatic,Family,0
+SYN-01717,27.0,56.13,0,Two year,DSL,Manual,Family,0
+SYN-01718,30.0,33.73,0,Two year,DSL,Automatic,Individual,0
+SYN-01719,37.0,102.16,0,Two year,Fiber optic,Automatic,Family,0
+SYN-01720,6.0,18.0,2,Two year,DSL,Automatic,Individual,0
+SYN-01721,54.0,37.47,2,Two year,DSL,Automatic,Individual,0
+SYN-01722,47.0,90.63,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01723,53.0,59.31,0,Two year,DSL,Automatic,Individual,0
+SYN-01724,38.0,84.52,2,One year,Fiber optic,Automatic,Individual,0
+SYN-01725,57.0,111.9,1,Month-to-month,Fiber optic,Automatic,Family,1
+SYN-01726,69.0,37.2,1,One year,DSL,Automatic,Individual,0
+SYN-01727,41.0,50.04,1,Month-to-month,DSL,Automatic,Family,0
+SYN-01728,32.0,41.88,1,Month-to-month,DSL,Automatic,Small business,0
+SYN-01729,7.0,49.96,0,Month-to-month,DSL,Automatic,Family,0
+SYN-01730,56.0,39.83,1,Month-to-month,DSL,Manual,Family,0
+SYN-01731,65.0,28.3,2,Month-to-month,None,Automatic,Individual,0
+SYN-01732,51.0,75.54,2,Two year,Fiber optic,Manual,Family,0
+SYN-01733,63.0,81.87,2,One year,Fiber optic,Automatic,Individual,0
+SYN-01734,62.0,75.15,0,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01735,58.0,70.32,0,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01736,36.0,67.63,2,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01737,7.0,56.57,2,Month-to-month,DSL,Manual,Family,0
+SYN-01738,0.0,45.15,3,Two year,DSL,Manual,Individual,0
+SYN-01739,14.0,35.3,0,Month-to-month,DSL,Automatic,Family,1
+SYN-01740,31.0,18.26,0,One year,DSL,Manual,Individual,0
+SYN-01741,54.0,47.41,1,One year,DSL,Automatic,Individual,1
+SYN-01742,33.0,32.12,1,One year,None,Automatic,Family,0
+SYN-01743,1.0,42.12,1,Two year,None,Manual,Individual,0
+SYN-01744,15.0,56.02,3,Month-to-month,DSL,Automatic,Small business,0
+SYN-01745,71.0,96.05,1,Two year,Fiber optic,Automatic,Individual,0
+SYN-01746,72.0,99.59,4,One year,Fiber optic,Manual,Family,0
+SYN-01747,27.0,84.21,2,One year,Fiber optic,Manual,Small business,0
+SYN-01748,58.0,119.27,1,One year,Fiber optic,Manual,Family,0
+SYN-01749,,19.65,1,Two year,DSL,Automatic,Family,0
+SYN-01750,67.0,28.96,2,Two year,None,Manual,Individual,1
+SYN-01751,64.0,61.03,2,Month-to-month,None,Automatic,Family,0
+SYN-01752,45.0,70.62,1,Two year,Fiber optic,Automatic,Small business,0
+SYN-01753,28.0,106.12,1,One year,Fiber optic,Automatic,Family,0
+SYN-01754,45.0,74.49,1,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-01755,23.0,51.71,2,Two year,DSL,Manual,Family,1
+SYN-01756,25.0,46.43,1,Month-to-month,DSL,Manual,Family,1
+SYN-01757,44.0,68.21,3,One year,Fiber optic,Automatic,Individual,0
+SYN-01758,41.0,42.89,3,Month-to-month,DSL,Automatic,Family,0
+SYN-01759,42.0,78.53,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01760,28.0,79.93,3,Two year,Fiber optic,Manual,Family,0
+SYN-01761,,87.39,2,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-01762,0.0,58.49,2,Month-to-month,DSL,Automatic,Family,0
+SYN-01763,43.0,64.29,2,Month-to-month,None,Manual,Family,1
+SYN-01764,42.0,20.32,1,Month-to-month,DSL,Automatic,Small business,0
+SYN-01765,68.0,18.0,0,One year,DSL,Manual,Individual,0
+SYN-01766,36.0,34.95,2,Two year,DSL,Automatic,Individual,0
+SYN-01767,34.0,112.68,4,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01768,4.0,51.46,3,One year,None,Automatic,Individual,0
+SYN-01769,14.0,27.79,2,Month-to-month,DSL,Automatic,Small business,1
+SYN-01770,24.0,40.52,1,One year,None,Automatic,Individual,0
+SYN-01771,27.0,59.46,4,Month-to-month,DSL,Automatic,Family,0
+SYN-01772,26.0,57.21,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01773,28.0,52.81,2,Month-to-month,DSL,Automatic,Individual,0
+SYN-01774,56.0,72.82,0,One year,Fiber optic,Automatic,Small business,0
+SYN-01775,9.0,88.82,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-01776,24.0,,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01777,11.0,49.88,4,Two year,DSL,Manual,Individual,1
+SYN-01778,22.0,65.18,3,One year,Fiber optic,Manual,Small business,0
+SYN-01779,49.0,18.0,0,Month-to-month,None,Automatic,Small business,0
+SYN-01780,3.0,79.2,2,One year,Fiber optic,Manual,Individual,0
+SYN-01781,24.0,63.43,1,Two year,Fiber optic,Automatic,Family,0
+SYN-01782,1.0,71.09,1,Month-to-month,Fiber optic,Automatic,Individual,0
+SYN-01783,69.0,65.43,1,One year,DSL,Automatic,Family,0
+SYN-01784,53.0,42.53,1,Month-to-month,None,Manual,Individual,0
+SYN-01785,17.0,63.55,0,One year,DSL,Automatic,Family,0
+SYN-01786,14.0,83.06,1,Month-to-month,Fiber optic,Automatic,Small business,0
+SYN-01787,7.0,,2,One year,DSL,Manual,Individual,0
+SYN-01788,34.0,27.35,0,Month-to-month,DSL,Automatic,Individual,0
+SYN-01789,55.0,80.18,6,Month-to-month,Fiber optic,Manual,Individual,0
+SYN-01790,42.0,69.3,3,Two year,Fiber optic,Manual,Individual,0
+SYN-01791,64.0,47.44,1,Month-to-month,None,Manual,Individual,1
+SYN-01792,25.0,34.2,2,Two year,None,Manual,Individual,0
+SYN-01793,20.0,57.34,0,Two year,DSL,Manual,Small business,0
+SYN-01794,34.0,28.1,1,Two year,DSL,Automatic,Individual,0
+SYN-01795,14.0,93.29,1,Month-to-month,Fiber optic,Manual,Small business,0
+SYN-01796,71.0,82.71,3,Two year,Fiber optic,Manual,Individual,1
+SYN-01797,13.0,89.58,1,Month-to-month,Fiber optic,Manual,Family,1
+SYN-01798,34.0,42.05,0,Month-to-month,None,Automatic,Individual,0
+SYN-01799,38.0,78.4,2,Two year,Fiber optic,Manual,Small business,0
+SYN-00000,6.0,82.47,1,Month-to-month,Fiber optic,Automatic,Individual,1
+SYN-00001,56.0,71.66,2,Month-to-month,Fiber optic,Automatic,Family,0

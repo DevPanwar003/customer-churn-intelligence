@@ -1,0 +1,154 @@
+{
+  "dataset_sha256": "548b2b5276f789d545f671ed59836a5c3b5a56c72d02c060731b010cb4f843fe",
+  "class_counts": {
+    "0": 1462,
+    "1": 338
+  },
+  "churn_share": 0.18777777777777777,
+  "quality": {
+    "input_rows": 1802,
+    "clean_rows": 1800,
+    "exact_duplicates_removed": 2,
+    "missing_by_column": {
+      "customer_id": 0,
+      "tenure_months": 36,
+      "monthly_charges": 36,
+      "support_calls": 0,
+      "contract_type": 0,
+      "internet_service": 0,
+      "payment_method": 36,
+      "customer_segment": 0,
+      "churn": 0
+    },
+    "ignored_columns": []
+  },
+  "numeric_summary": {
+    "tenure_months": {
+      "count": 1764.0,
+      "mean": 36.24716553287982,
+      "std": 21.072198982386674,
+      "min": 0.0,
+      "25%": 18.0,
+      "50%": 36.0,
+      "75%": 55.0,
+      "max": 72.0
+    },
+    "monthly_charges": {
+      "count": 1764.0,
+      "mean": 59.983956916099764,
+      "std": 25.196408921991708,
+      "min": 18.0,
+      "25%": 38.980000000000004,
+      "50%": 59.405,
+      "75%": 80.295,
+      "max": 134.67
+    },
+    "support_calls": {
+      "count": 1800.0,
+      "mean": 1.2772222222222223,
+      "std": 1.1288983131335777,
+      "min": 0.0,
+      "25%": 0.0,
+      "50%": 1.0,
+      "75%": 2.0,
+      "max": 6.0
+    }
+  },
+  "category_counts": {
+    "contract_type": {
+      "Month-to-month": 1021,
+      "One year": 410,
+      "Two year": 369
+    },
+    "internet_service": {
+      "Fiber optic": 863,
+      "DSL": 662,
+      "None": 275
+    },
+    "payment_method": {
+      "Automatic": 1094,
+      "Manual": 670,
+      "Missing": 36
+    },
+    "customer_segment": {
+      "Individual": 832,
+      "Family": 690,
+      "Small business": 278
+    }
+  },
+  "generator_probability_quantiles": [
+    0.017678142887414258,
+    0.09417789164811588,
+    0.1646326569966493,
+    0.26093833299131963,
+    0.4434977581793554,
+    0.720992485550266
+  ],
+  "generator_probability_holdout_auc": 0.6767767929089443,
+  "caveat": "Known simulation probabilities are not a trained model or a finite-sample performance ceiling; unavailable for real data.",
+  "models": {
+    "Majority baseline": {
+      "flagged_at_0_50": 0,
+      "probability_quantiles": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "confusion_matrix": [
+        [
+          365,
+          0
+        ],
+        [
+          85,
+          0
+        ]
+      ]
+    },
+    "Logistic Regression": {
+      "flagged_at_0_50": 16,
+      "probability_quantiles": [
+        0.011651915875425977,
+        0.07706444923316734,
+        0.15527592628552161,
+        0.28076339606264755,
+        0.4728163568963944,
+        0.6595793597130551
+      ],
+      "confusion_matrix": [
+        [
+          356,
+          9
+        ],
+        [
+          78,
+          7
+        ]
+      ]
+    },
+    "Random Forest": {
+      "flagged_at_0_50": 9,
+      "probability_quantiles": [
+        0.0061691677879631614,
+        0.08686675035871967,
+        0.15348003782719488,
+        0.2749561828926931,
+        0.448000065271626,
+        0.5740200257056488
+      ],
+      "confusion_matrix": [
+        [
+          359,
+          6
+        ],
+        [
+          82,
+          3
+        ]
+      ]
+    }
+  }
+}
